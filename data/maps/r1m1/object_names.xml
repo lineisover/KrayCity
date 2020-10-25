@@ -142,7 +142,7 @@
 
 	<Object
 		Name="PetrolStationTown1"
-		FullName="Çàïðàâêà" />
+		FullName="ÇÀÏÐÀÂÊÀ" />
 
 	<Object
 		Name="PetrolStationTown1_Workshop"
@@ -150,7 +150,7 @@
 
 	<Object
 		Name="PetrolStationTown2"
-		FullName="Çàïðàâêà" />
+		FullName="ÇÀÏÐÀÂÊÀ" />
 
 	<Object
 		Name="PetrolStationTown2_Workshop"
@@ -158,7 +158,7 @@
 
 	<Object
 		Name="PetrolStationTown3"
-		FullName="Çàïðàâêà" />
+		FullName="ÇÀÏÐÀÂÊÀ" />
 
 	<Object
 		Name="PetrolStationTown3_Workshop"
@@ -227,4 +227,124 @@
 	<Object
 		Name="u9"
 		FullName="Êîðëåé" />
+
+	<Object
+		Name="Sosnovka"
+		FullName="ÑÎÑÍÎÂÊÀ" />
+
+	<Object
+		Name="Sosnovka_Shop"
+		FullName="Ðûíîê" />
+
+	<Object
+		Name="Sosnovka_Workshop"
+		FullName="Ìàñòåðñêàÿ" />
+
+	<Object
+		Name="Sosnovka_Bar"
+		FullName="Áàð ''Ó ëåñîïèëêè''" />
+
+	<Object
+		Name="Sosnovka_Bar_Barman"
+		FullName="Áàðìåíøà Ñîâà" />
+
+	<Object
+		Name="Sosnovka_enter"
+		FullName="ÑÎÑÍÎÂÊÀ" />
+
+	<Object
+		Name="Lukoil"
+		FullName="×ÅÑÍÎÊÎÉË" />
+
+	<Object
+		Name="Lukoil_Shop"
+		FullName="Ìàãàçèí" />
+
+	<Object
+		Name="Lukoil_Workshop"
+		FullName="Ìàñòåðñêàÿ" />
+
+	<Object
+		Name="Lukoil_Bar"
+		FullName="Áàð ''Êàïëÿ íåôòè''" />
+
+	<Object
+		Name="Lukoil_Bar_Barman"
+		FullName="Áàðìåíøà Ãàéêà" />
+
+	<Object
+		Name="Lukoil_enter"
+		FullName="×ÅÑÍÎÊÎÉË" />
+
+	<Object
+		Name="Svalka"
+		FullName="ÐÆÀÂÅÍÑÊ" />
+
+	<Object
+		Name="Svalka_Shop"
+		FullName="Ìàãàçèí" />
+
+	<Object
+		Name="Svalka_Workshop"
+		FullName="Ìàñòåðñêàÿ" />
+
+	<Object
+		Name="Svalka_Bar"
+		FullName="Áàð ''Ñìàçêà''" />
+
+	<Object
+		Name="Svalka_Bar_Barman"
+		FullName="Áàðìåí Ëèòîë " />
+
+	<Object
+		Name="Svalka_enter"
+		FullName="ÐÆÀÂÅÍÑÊ" />
+
+	<Object
+		Name="Ruin"
+		FullName="ÑÒÀÐÛÉ ÏÎÑÅËÎÊ" />
+
+	<Object
+		Name="Ruin_Shop"
+		FullName="Ðûíîê" />
+
+	<Object
+		Name="Ruin_Workshop"
+		FullName="Ãàðàæ" />
+
+	<Object
+		Name="Ruin_Bar"
+		FullName="Áàð ''Êàìåíü íà êàìíå''" />
+
+	<Object
+		Name="Ruin_Bar_Barman"
+		FullName="Áàðìåí Êíèãîâåä " />
+
+	<Object
+		Name="Ruin_enter"
+		FullName="ÑÒÀÐÛÉ ÏÎÑÅËÎÊ" />
+
+	<Object
+		Name="Kolhoz"
+		FullName="ÑÅÐÏ È ÌÎËÎÒ" />
+
+	<Object
+		Name="Kolhoz_Shop"
+		FullName="Ñêëàä" />
+
+	<Object
+		Name="Kolhoz_Workshop"
+		FullName="Ãàðàæ" />
+
+	<Object
+		Name="Kolhoz_Bar"
+		FullName="Áàð ''Ïøåíè÷êà''" />
+
+	<Object
+		Name="Kolhoz_Bar_Barman"
+		FullName="Áàðìåí Ùàâåëü" />
+
+	<Object
+		Name="Kolhoz_enter"
+		FullName="ÑÅÐÏ È ÌÎËÎÒ" />
 </ObjectNames>

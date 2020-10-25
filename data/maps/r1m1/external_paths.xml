@@ -1,9 +1,621 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <Paths>
 	<Path
+		Name="Ruins_man1">
+		<Point
+			coord="1329.646 306.123" />
+
+		<Point
+			coord="1286.394 281.170" />
+
+		<Point
+			coord="1249.730 278.443" />
+
+		<Point
+			coord="1245.052 267.695" />
+
+		<Point
+			coord="1277.860 266.749" />
+
+		<Point
+			coord="1304.876 271.894" />
+
+		<Point
+			coord="1322.112 265.634" />
+
+		<Point
+			coord="1327.488 277.851" />
+
+		<Point
+			coord="1317.723 280.510" />
+
+		<Point
+			coord="1338.963 299.638" />
+	</Path>
+
+	<Path
+		Name="Ruins_man2">
+		<Point
+			coord="1468.995 334.664" />
+
+		<Point
+			coord="1444.937 309.817" />
+
+		<Point
+			coord="1417.845 287.902" />
+
+		<Point
+			coord="1391.346 271.721" />
+
+		<Point
+			coord="1379.188 266.706" />
+
+		<Point
+			coord="1376.579 279.277" />
+
+		<Point
+			coord="1398.010 289.758" />
+
+		<Point
+			coord="1424.770 307.963" />
+
+		<Point
+			coord="1452.789 337.511" />
+	</Path>
+
+	<Path
+		Name="Ruins_man3">
+		<Point
+			coord="1365.309 262.142" />
+
+		<Point
+			coord="1364.005 276.461" />
+
+		<Point
+			coord="1373.811 278.852" />
+
+		<Point
+			coord="1385.412 283.187" />
+
+		<Point
+			coord="1391.346 270.140" />
+
+		<Point
+			coord="1372.470 265.015" />
+	</Path>
+
+	<Path
+		Name="Sosnovka_man1_path">
+		<Point
+			coord="1584.981 2011.785" />
+
+		<Point
+			coord="1584.874 2034.952" />
+
+		<Point
+			coord="1583.705 2067.494" />
+
+		<Point
+			coord="1598.919 2067.043" />
+
+		<Point
+			coord="1599.485 2034.424" />
+
+		<Point
+			coord="1599.031 2013.674" />
+	</Path>
+
+	<Path
+		Name="Sosnovka_man2_path">
+		<Point
+			coord="1597.000 2045.921" />
+
+		<Point
+			coord="1602.958 2050.520" />
+
+		<Point
+			coord="1610.580 2048.694" />
+
+		<Point
+			coord="1615.949 2040.294" />
+
+		<Point
+			coord="1616.349 2029.329" />
+
+		<Point
+			coord="1615.620 2021.450" />
+
+		<Point
+			coord="1606.747 2023.972" />
+
+		<Point
+			coord="1598.971 2029.360" />
+
+		<Point
+			coord="1598.442 2038.906" />
+	</Path>
+
+	<Path
+		Name="Sosnovka_man3_path">
+		<Point
+			coord="1582.869 2080.729" />
+
+		<Point
+			coord="1586.806 2096.930" />
+
+		<Point
+			coord="1591.011 2108.192" />
+
+		<Point
+			coord="1597.871 2119.049" />
+
+		<Point
+			coord="1603.195 2128.784" />
+
+		<Point
+			coord="1610.481 2137.336" />
+
+		<Point
+			coord="1618.171 2153.082" />
+
+		<Point
+			coord="1623.383 2167.268" />
+
+		<Point
+			coord="1624.011 2183.392" />
+
+		<Point
+			coord="1625.152 2203.151" />
+
+		<Point
+			coord="1627.306 2219.264" />
+
+		<Point
+			coord="1629.119 2234.267" />
+
+		<Point
+			coord="1648.290 2232.497" />
+
+		<Point
+			coord="1646.729 2214.785" />
+
+		<Point
+			coord="1644.589 2194.370" />
+
+		<Point
+			coord="1642.946 2168.575" />
+
+		<Point
+			coord="1639.030 2149.253" />
+
+		<Point
+			coord="1631.658 2135.259" />
+
+		<Point
+			coord="1621.298 2119.770" />
+
+		<Point
+			coord="1611.643 2103.581" />
+
+		<Point
+			coord="1602.098 2080.408" />
+	</Path>
+
+	<Path
+		Name="dalina_man1">
+		<Point
+			coord="3651.478 1666.556" />
+
+		<Point
+			coord="3718.481 1667.245" />
+
+		<Point
+			coord="3718.577 1614.521" />
+
+		<Point
+			coord="3682.337 1596.170" />
+
+		<Point
+			coord="3692.242 1580.068" />
+
+		<Point
+			coord="3727.289 1596.500" />
+
+		<Point
+			coord="3740.130 1598.284" />
+
+		<Point
+			coord="3739.242 1617.832" />
+
+		<Point
+			coord="3735.642 1633.111" />
+
+		<Point
+			coord="3736.382 1684.480" />
+
+		<Point
+			coord="3717.292 1685.698" />
+
+		<Point
+			coord="3666.406 1684.256" />
+
+		<Point
+			coord="3666.049 1674.491" />
+
+		<Point
+			coord="3651.285 1674.543" />
+	</Path>
+
+	<Path
+		Name="dalina_man10">
+		<Point
+			coord="3878.201 1737.777" />
+
+		<Point
+			coord="3877.685 1706.451" />
+
+		<Point
+			coord="3876.181 1613.120" />
+
+		<Point
+			coord="3894.189 1610.868" />
+
+		<Point
+			coord="3894.220 1664.607" />
+
+		<Point
+			coord="3895.192 1738.521" />
+	</Path>
+
+	<Path
+		Name="dalina_man2">
+		<Point
+			coord="3736.008 1695.811" />
+
+		<Point
+			coord="3736.632 1651.017" />
+
+		<Point
+			coord="3737.109 1624.213" />
+
+		<Point
+			coord="3742.836 1615.646" />
+
+		<Point
+			coord="3778.188 1614.029" />
+
+		<Point
+			coord="3777.454 1632.875" />
+
+		<Point
+			coord="3776.473 1674.836" />
+
+		<Point
+			coord="3778.420 1716.327" />
+
+		<Point
+			coord="3793.860 1716.912" />
+
+		<Point
+			coord="3794.211 1676.330" />
+
+		<Point
+			coord="3793.663 1644.139" />
+
+		<Point
+			coord="3794.946 1614.209" />
+
+		<Point
+			coord="3794.823 1592.568" />
+
+		<Point
+			coord="3771.903 1595.775" />
+
+		<Point
+			coord="3732.785 1598.934" />
+
+		<Point
+			coord="3716.876 1618.499" />
+
+		<Point
+			coord="3717.240 1662.493" />
+
+		<Point
+			coord="3716.033 1687.575" />
+
+		<Point
+			coord="3727.383 1695.806" />
+	</Path>
+
+	<Path
+		Name="dalina_man3">
+		<Point
+			coord="3733.688 1620.126" />
+
+		<Point
+			coord="3710.595 1610.871" />
+
+		<Point
+			coord="3687.649 1600.202" />
+
+		<Point
+			coord="3665.663 1578.574" />
+
+		<Point
+			coord="3653.953 1558.809" />
+
+		<Point
+			coord="3647.570 1536.499" />
+
+		<Point
+			coord="3644.424 1516.085" />
+
+		<Point
+			coord="3638.179 1496.988" />
+
+		<Point
+			coord="3625.729 1474.253" />
+
+		<Point
+			coord="3611.282 1456.788" />
+
+		<Point
+			coord="3591.142 1442.059" />
+
+		<Point
+			coord="3565.162 1430.002" />
+
+		<Point
+			coord="3536.876 1424.604" />
+
+		<Point
+			coord="3512.860 1420.036" />
+
+		<Point
+			coord="3498.556 1411.450" />
+
+		<Point
+			coord="3504.999 1396.295" />
+
+		<Point
+			coord="3522.695 1403.707" />
+
+		<Point
+			coord="3553.151 1406.909" />
+
+		<Point
+			coord="3587.789 1418.051" />
+
+		<Point
+			coord="3621.096 1439.639" />
+
+		<Point
+			coord="3646.225 1471.435" />
+
+		<Point
+			coord="3660.971 1505.433" />
+
+		<Point
+			coord="3662.143 1532.334" />
+
+		<Point
+			coord="3669.609 1552.256" />
+
+		<Point
+			coord="3686.703 1576.151" />
+
+		<Point
+			coord="3712.469 1593.926" />
+
+		<Point
+			coord="3731.115 1599.568" />
+	</Path>
+
+	<Path
+		Name="dalina_man4">
+		<Point
+			coord="3687.758 1576.931" />
+
+		<Point
+			coord="3716.715 1595.204" />
+
+		<Point
+			coord="3735.026 1599.258" />
+
+		<Point
+			coord="3738.294 1616.737" />
+
+		<Point
+			coord="3710.855 1612.080" />
+
+		<Point
+			coord="3677.004 1592.212" />
+	</Path>
+
+	<Path
+		Name="dalina_man5">
+		<Point
+			coord="3780.852 1596.282" />
+
+		<Point
+			coord="3793.431 1614.875" />
+
+		<Point
+			coord="3794.598 1647.796" />
+
+		<Point
+			coord="3795.014 1667.785" />
+
+		<Point
+			coord="3795.131 1676.668" />
+
+		<Point
+			coord="3777.376 1677.609" />
+
+		<Point
+			coord="3776.675 1624.752" />
+	</Path>
+
+	<Path
+		Name="dalina_man6">
+		<Point
+			coord="3777.399 1618.332" />
+
+		<Point
+			coord="3792.452 1593.170" />
+
+		<Point
+			coord="3811.663 1594.364" />
+
+		<Point
+			coord="3844.180 1593.211" />
+
+		<Point
+			coord="3878.671 1591.944" />
+
+		<Point
+			coord="3911.162 1592.027" />
+
+		<Point
+			coord="3922.028 1596.406" />
+
+		<Point
+			coord="3920.579 1606.366" />
+
+		<Point
+			coord="3897.322 1607.717" />
+
+		<Point
+			coord="3887.297 1592.402" />
+
+		<Point
+			coord="3869.416 1591.354" />
+
+		<Point
+			coord="3858.131 1612.144" />
+
+		<Point
+			coord="3798.455 1612.980" />
+
+		<Point
+			coord="3792.489 1617.667" />
+	</Path>
+
+	<Path
+		Name="dalina_man7">
+		<Point
+			coord="3778.618 1721.420" />
+
+		<Point
+			coord="3777.527 1684.117" />
+
+		<Point
+			coord="3777.340 1677.484" />
+
+		<Point
+			coord="3762.991 1676.779" />
+
+		<Point
+			coord="3738.046 1680.161" />
+
+		<Point
+			coord="3738.503 1657.618" />
+
+		<Point
+			coord="3748.337 1658.261" />
+
+		<Point
+			coord="3760.860 1657.650" />
+
+		<Point
+			coord="3776.948 1669.384" />
+
+		<Point
+			coord="3793.143 1678.945" />
+
+		<Point
+			coord="3793.048 1720.981" />
+	</Path>
+
+	<Path
+		Name="dalina_man8">
+		<Point
+			coord="3837.438 1664.937" />
+
+		<Point
+			coord="3861.530 1654.645" />
+
+		<Point
+			coord="3864.541 1641.184" />
+
+		<Point
+			coord="3866.030 1617.853" />
+
+		<Point
+			coord="3842.548 1617.484" />
+
+		<Point
+			coord="3813.719 1617.996" />
+
+		<Point
+			coord="3807.581 1637.795" />
+
+		<Point
+			coord="3800.717 1647.417" />
+
+		<Point
+			coord="3800.024 1660.784" />
+
+		<Point
+			coord="3822.586 1659.552" />
+
+		<Point
+			coord="3827.146 1662.861" />
+
+		<Point
+			coord="3835.497 1664.629" />
+	</Path>
+
+	<Path
+		Name="dalina_man9">
+		<Point
+			coord="3898.177 1608.852" />
+
+		<Point
+			coord="3893.770 1610.629" />
+
+		<Point
+			coord="3893.742 1653.852" />
+
+		<Point
+			coord="3894.280 1705.846" />
+
+		<Point
+			coord="3895.962 1741.594" />
+
+		<Point
+			coord="3880.510 1742.052" />
+
+		<Point
+			coord="3878.948 1671.613" />
+
+		<Point
+			coord="3877.144 1611.895" />
+
+		<Point
+			coord="3873.901 1591.027" />
+
+		<Point
+			coord="3898.888 1590.604" />
+	</Path>
+
+	<Path
 		Name="felix_path01">
 		<Point
 			coord="1989.501 2430.168" />
+
+		<Point
+			coord="2027.138 2439.518" />
 	</Path>
 
 	<Path
@@ -853,6 +1465,162 @@
 	</Path>
 
 	<Path
+		Name="neftanka_man1">
+		<Point
+			coord="2180.391 1885.556" />
+
+		<Point
+			coord="2197.078 1890.421" />
+
+		<Point
+			coord="2219.814 1893.873" />
+
+		<Point
+			coord="2240.514 1897.017" />
+
+		<Point
+			coord="2251.654 1892.537" />
+
+		<Point
+			coord="2266.863 1898.325" />
+
+		<Point
+			coord="2261.110 1915.724" />
+
+		<Point
+			coord="2246.248 1917.202" />
+
+		<Point
+			coord="2231.505 1914.944" />
+
+		<Point
+			coord="2224.017 1925.285" />
+
+		<Point
+			coord="2220.596 1931.691" />
+
+		<Point
+			coord="2209.575 1930.122" />
+
+		<Point
+			coord="2211.336 1915.069" />
+
+		<Point
+			coord="2199.448 1905.855" />
+
+		<Point
+			coord="2191.623 1901.101" />
+
+		<Point
+			coord="2179.727 1902.126" />
+
+		<Point
+			coord="2168.975 1894.194" />
+
+		<Point
+			coord="2172.663 1882.500" />
+	</Path>
+
+	<Path
+		Name="neftanka_man2">
+		<Point
+			coord="2178.088 1889.670" />
+
+		<Point
+			coord="2175.385 1876.301" />
+
+		<Point
+			coord="2164.443 1878.427" />
+
+		<Point
+			coord="2155.000 1886.120" />
+
+		<Point
+			coord="2149.475 1894.893" />
+
+		<Point
+			coord="2159.279 1905.511" />
+
+		<Point
+			coord="2169.688 1900.306" />
+
+		<Point
+			coord="2179.218 1900.205" />
+
+		<Point
+			coord="2189.024 1899.872" />
+
+		<Point
+			coord="2197.250 1901.940" />
+
+		<Point
+			coord="2201.541 1907.835" />
+
+		<Point
+			coord="2207.632 1914.983" />
+
+		<Point
+			coord="2215.348 1914.901" />
+
+		<Point
+			coord="2227.030 1914.967" />
+
+		<Point
+			coord="2234.669 1893.340" />
+
+		<Point
+			coord="2220.229 1891.691" />
+
+		<Point
+			coord="2201.370 1886.371" />
+
+		<Point
+			coord="2183.356 1882.247" />
+	</Path>
+
+	<Path
+		Name="neftanka_man3">
+		<Point
+			coord="2175.052 1894.822" />
+
+		<Point
+			coord="2182.934 1898.867" />
+
+		<Point
+			coord="2191.834 1903.896" />
+
+		<Point
+			coord="2205.672 1908.612" />
+
+		<Point
+			coord="2218.111 1916.151" />
+
+		<Point
+			coord="2233.806 1917.127" />
+
+		<Point
+			coord="2254.995 1919.005" />
+
+		<Point
+			coord="2265.225 1899.464" />
+
+		<Point
+			coord="2252.806 1893.886" />
+
+		<Point
+			coord="2234.233 1893.381" />
+
+		<Point
+			coord="2214.116 1889.556" />
+
+		<Point
+			coord="2196.665 1885.928" />
+
+		<Point
+			coord="2180.209 1881.308" />
+	</Path>
+
+	<Path
 		Name="player_path01">
 		<Point
 			coord="1227.673 2862.821" />
@@ -940,6 +1708,42 @@
 		Name="start_rolik_mycar">
 		<Point
 			coord="3357.000 3288.000" />
+	</Path>
+
+	<Path
+		Name="svalka_man1">
+		<Point
+			coord="606.336 3681.812" />
+
+		<Point
+			coord="624.711 3681.991" />
+
+		<Point
+			coord="632.002 3684.882" />
+
+		<Point
+			coord="631.403 3697.673" />
+
+		<Point
+			coord="624.474 3696.328" />
+
+		<Point
+			coord="614.370 3695.540" />
+
+		<Point
+			coord="602.696 3693.900" />
+
+		<Point
+			coord="589.561 3693.181" />
+
+		<Point
+			coord="580.118 3690.541" />
+
+		<Point
+			coord="579.075 3680.258" />
+
+		<Point
+			coord="598.281 3679.965" />
 	</Path>
 
 	<Path

@@ -66,7 +66,7 @@
 			name="WATERLEVEL">286.440</Key>
 
 		<Key
-			name="BASEWATERLEVEL">286.560</Key>
+			name="BASEWATERLEVEL">2539.000</Key>
 
 		<Key
 			name="REFLECTIONTINT">255 255 255</Key>
@@ -147,7 +147,13 @@
 			name="DLGSTRINGS">strings.xml</Key>
 
 		<Key
-			name="ICONS">icons.xml</Key>
+			name="LOCALQUESTS"></Key>
+
+		<Key
+			name="LOCALQUESTINFO"></Key>
+
+		<Key
+			name="LOCALDIALOGS"></Key>
 
 		<Key
 			name="SKYTYPE">1</Key>
@@ -207,19 +213,19 @@
 	<Section
 		name="CAMERA">
 		<Key
-			name="X">1326.182</Key>
+			name="X">593.874</Key>
 
 		<Key
-			name="Y">386.873</Key>
+			name="Y">666.428</Key>
 
 		<Key
-			name="Z">2301.883</Key>
+			name="Z">572.431</Key>
 
 		<Key
-			name="A">-29.381</Key>
+			name="A">-1.090</Key>
 
 		<Key
-			name="B">-0.254</Key>
+			name="B">-0.891</Key>
 
 		<Key
 			name="G">0.000</Key>
@@ -237,19 +243,19 @@
 	<Section
 		name="ILLUMINATION">
 		<Key
-			name="MODEL_AMBIENT">0 0 13</Key>
+			name="MODEL_AMBIENT">101 116 44</Key>
 
 		<Key
-			name="MODEL_DIFFUSE">0 0 0</Key>
+			name="MODEL_DIFFUSE">40 68 50</Key>
 
 		<Key
-			name="LS_COLOR">0 0 0</Key>
+			name="LS_COLOR">97 83 101</Key>
 
 		<Key
-			name="LS_DIFFUSE">0 0 77</Key>
+			name="LS_DIFFUSE">101 108 112</Key>
 
 		<Key
-			name="LS_TFACTOR">0.000</Key>
+			name="LS_TFACTOR">18605364804791530000000000000000000.000</Key>
 
 		<Key
 			name="SKY_COLOR">0 0 0</Key>

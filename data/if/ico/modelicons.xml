@@ -2,9 +2,9 @@
 <!-- edited with XML Spy v4.2 U (http://www.xmlspy.com) by scorp (targem) -->
 
 <icons>
-   <Item id="arcadescoutCab"	file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="FormulaCab01"		file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="fakeCargo"	file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
+   <Item id="arcadescoutCab"	file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="FormulaCab01"		file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="fakeCargo"	file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
 
    <Item id="bugCab01"   	file="data\if\ico\InventoryDlg\bug\Bug_Cab01.dds" file1=""/>
    <Item id="bugCab02"   	file="data\if\ico\InventoryDlg\bug\Bug_Cab02.dds" file1=""/>
@@ -119,7 +119,7 @@
 
 
    <Item id="rocketLauncher"		file="data\if\ico\InventoryDlg\weapon\Dragon.dds"		file1="data\if\ico\InventoryDlg\weapon\Dragon.dds"/>
-   
+
    <Item id="minePusher"		file="data\if\ico\InventoryDlg\weapon\Minoykladchik1.dds"	file1="data\if\ico\InventoryDlg\weapon\Minoykladchik1.dds"/>
    <Item id="minePusher_1"		file="data\if\ico\InventoryDlg\weapon\Minoykladchik1.dds"	file1="data\if\ico\InventoryDlg\weapon\Minoykladchik1.dds"/>
    <Item id="minePusher_2"		file="data\if\ico\InventoryDlg\weapon\Minoykladchik1.dds"	file1="data\if\ico\InventoryDlg\weapon\Minoykladchik1.dds"/>
@@ -133,7 +133,7 @@
    <Item id="hunterSideGun"		file="data\if\ico\InventoryDlg\weapon\hunterSideGun.dds"	file1="data\if\ico\InventoryDlg\weapon\hunterSideGun.dds"/>
    <Item id="zeusSideGun"		file="data\if\ico\InventoryDlg\weapon\zeusSideGun.dds"	file1="data\if\ico\InventoryDlg\weapon\zeusSideGun.dds"/>
    <Item id="marsSideGun"		file="data\if\ico\InventoryDlg\weapon\marsSideGun.dds"	file1="data\if\ico\InventoryDlg\weapon\marsSideGun.dds"/>
-                               	
+
    <Item id="big_swingfire01"		file="data\if\ico\InventoryDlg\weapon\Swingfire.dds"		file1="data\if\ico\InventoryDlg\weapon\Swingfire.dds"/>
    <Item id="dragon01"			file="data\if\ico\InventoryDlg\weapon\Dragon.dds"		file1="data\if\ico\InventoryDlg\weapon\Dragon.dds"/>
    <Item id="hammer01"			file="data\if\ico\InventoryDlg\weapon\hammer01.dds"		file1="data\if\ico\InventoryDlg\weapon\hammer01.dds"/>
@@ -259,6 +259,11 @@
    <Item id="r2m2_GranicaVillage"		file1="data\if\ico\LocalMap\icn_village.dds" file=""/>
    <Item id="r2m2_ZnakiVillage"			file1="data\if\ico\LocalMap\icn_village.dds" file=""/>
    <Item id="r2m2_NewVillage"			file1="data\if\ico\LocalMap\icn_village.dds" file=""/>
+   <Item id="r1m1_Sosnovka"				file1="data\if\ico\LocalMap\icn_village.dds" file=""/>
+   <Item id="r1m1_Lukoil"				file1="data\if\ico\LocalMap\icn_village.dds" file=""/>
+   <Item id="r1m1_Svalka"				file1="data\if\ico\LocalMap\icn_village.dds" file=""/>
+   <Item id="r1m1_Ruin"				    file1="data\if\ico\LocalMap\icn_village.dds" file=""/>
+   <Item id="r1m1_Kolhoz"				file1="data\if\ico\LocalMap\icn_town.dds" file=""/>
 
    <Item id="DoNotRememberDeleteThisVillage"	file1="data\if\ico\LocalMap\icn_village.dds" file=""/>
 
@@ -290,35 +295,35 @@
    <Item id="boss04"			file="data\if\ico\BossIndicator\BossIcons\boss3.dds" file1=""/>
 
 <!-- аффиксы -->
-   <Item id="useless_cabin"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="rusty_cabin"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="excellent_cabin"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="advanced_cabin"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="useless_basket"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="rusty_basket"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="excellent_basket"		file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="advanced_basket"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="useless_gun"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="rusty_gun"				file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="excellent_gun"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="advanced_gun"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="slow_gun"				file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="assault_gun"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="rapid_firing_gun"		file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="weak_gun"				file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="deadly_gun"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="destructive_gun"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="with_truncated_barrel_gun"	file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="with_enlarged_barrel_gun"	file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="with_long_barrel_gun"		file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="without_sight_gun"		file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="with_laser_sight_gun"		file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="with_electric_sight_gun"	file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="without_cooling_gun"		file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="with_water_cooling_gun"	file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
-   <Item id="with_nitro_cooling_gun"	file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>	
+   <Item id="useless_cabin"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="rusty_cabin"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="excellent_cabin"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="advanced_cabin"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="useless_basket"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="rusty_basket"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="excellent_basket"		file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="advanced_basket"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="useless_gun"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="rusty_gun"				file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="excellent_gun"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="advanced_gun"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="slow_gun"				file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="assault_gun"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="rapid_firing_gun"		file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="weak_gun"				file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="deadly_gun"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="destructive_gun"			file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="with_truncated_barrel_gun"	file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="with_enlarged_barrel_gun"	file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="with_long_barrel_gun"		file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="without_sight_gun"		file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="with_laser_sight_gun"		file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="with_electric_sight_gun"	file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="without_cooling_gun"		file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="with_water_cooling_gun"	file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
+   <Item id="with_nitro_cooling_gun"	file="data\if\ico\InventoryDlg\Opacity1.dds" file1=""/>
 
-<!-- группировки -->	
+<!-- группировки -->
    <Item id="Belong_1002"		file="data\if\ico\clans\vagabonds03.dds" 			file1="data\if\ico\clans\vagabonds02.dds"/>
    <Item id="Belong_1003"		file="data\if\ico\clans\adventurers03.dds" 		file1="data\if\ico\clans\adventurers02.dds"/>
    <Item id="Belong_1004"		file="data\if\ico\clans\explorers03.dds" 			file1="data\if\ico\clans\explorers02.dds"/>
