@@ -48396,10 +48396,10 @@
 
 	<Object
 		Name="InfectionZone_svalka"
-		Belong="1002"
+		Belong="1005"
 		Prototype="InfectionZone"
-		DropOutTimeOut="30.000"
-		InfectionTeamPrototypeName=""
+		DropOutTimeOut="20.000"
+		InfectionTeamPrototypeName="FelixsGang"
 		InfectionLair=""
 		HadPlayerInside="0">
 		<Polygon>
