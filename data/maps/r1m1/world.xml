@@ -2,7 +2,7 @@
 <World
 	name="Object299"
 	class="SgNode"
-	LastId="76482534">
+	LastId="76482691">
 	<Node
 		name="Object3"
 		class="SgAnimatedModelNode"
@@ -16984,9 +16984,9 @@
 	<Node
 		name="Object76480877"
 		class="SgAnimatedModelNode"
-		org="551.952 -0.125 3685.687"
+		org="531.776 -0.125 3682.766"
 		orgRel="1"
-		rot="0.0118 0.4739 -0.1032 0.8745"
+		rot="0.0107 0.4643 -0.1033 0.8796"
 		id="bar1"
 		ndmAction="0"
 		skin="1" />
@@ -16994,7 +16994,7 @@
 	<Node
 		name="Object76480878"
 		class="SgAnimatedModelNode"
-		org="655.609 -0.089 3640.203"
+		org="649.189 -0.094 3622.753"
 		orgRel="1"
 		rot="-0.0508 0.1103 -0.0166 0.9925"
 		id="house1"
@@ -17003,7 +17003,7 @@
 	<Node
 		name="Object76480879"
 		class="SgAnimatedModelNode"
-		org="581.789 -0.298 3714.021"
+		org="553.552 -0.298 3709.414"
 		orgRel="1"
 		rot="-0.1389 -0.9894 0.0406 -0.0078"
 		id="house3"
@@ -17013,9 +17013,9 @@
 	<Node
 		name="Object76480880"
 		class="SgAnimatedModelNode"
-		org="548.629 0.153 3656.159"
+		org="517.979 0.463 3625.730"
 		orgRel="1"
-		rot="-0.0081 0.4099 -0.1016 0.9064"
+		rot="0.0409 0.5434 -0.0506 0.8370"
 		id="workshop1"
 		ndmAction="0"
 		skin="1" />
@@ -17023,9 +17023,9 @@
 	<Node
 		name="Object76480881"
 		class="SgAnimatedModelNode"
-		org="565.596 -0.221 3707.797"
+		org="536.302 -0.221 3704.480"
 		orgRel="1"
-		rot="-0.0937 -0.9631 0.0521 -0.2468"
+		rot="-0.0690 -0.9647 0.0696 -0.2445"
 		id="townhall"
 		ndmAction="0"
 		skin="1" />
@@ -17680,4 +17680,49 @@
 		id="house2"
 		ndmAction="0"
 		skin="1" />
+
+	<Node
+		name="Object76482600"
+		class="SgAnimatedModelNode"
+		org="894.411 2.107 3726.531"
+		orgRel="1"
+		id="big_crag_2"
+		ndmAction="0"
+		passable="0" />
+
+	<Node
+		name="Object76482601"
+		class="SgAnimatedModelNode"
+		org="871.951 -31.521 3817.694"
+		orgRel="1"
+		rot="0.0000 -0.1500 0.0000 0.9887"
+		id="big_crag_7"
+		ndmAction="0" />
+
+	<Node
+		name="Object76482602"
+		class="SgAnimatedModelNode"
+		org="897.399 -11.047 3668.518"
+		orgRel="1"
+		rot="0.0000 -0.2546 0.0000 0.9670"
+		id="big_crag_1"
+		ndmAction="0" />
+
+	<Node
+		name="Object76482603"
+		class="SgAnimatedModelNode"
+		org="790.611 -33.454 3767.594"
+		orgRel="1"
+		rot="0.0853 -0.7893 0.1127 0.5975"
+		id="big_crag_1"
+		ndmAction="0" />
+
+	<Node
+		name="Object76482604"
+		class="SgAnimatedModelNode"
+		org="846.287 -2.740 3686.220"
+		orgRel="1"
+		rot="0.2837 -0.4664 -0.0215 0.8376"
+		id="big_crag_12"
+		ndmAction="0" />
 </World>

@@ -41067,7 +41067,7 @@
 			Name="Sosnovka_defend"
 			Belong="1008"
 			Prototype="genericLocation"
-			Pos="1592.768 303.957 2097.053"
+			Pos="1578.236 306.990 1959.600"
 			Radius="50.000"
 			Active="0" />
 
@@ -46611,7 +46611,7 @@
 			Name="Svalka_defend"
 			Belong="1008"
 			Prototype="genericLocation"
-			Pos="626.869 261.364 3686.584"
+			Pos="871.486 296.908 3723.857"
 			Rot="0.000 0.687 0.000 0.727"
 			Radius="50.000"
 			Active="0" />
@@ -46646,23 +46646,23 @@
 			Name="Svalka_deploy"
 			Belong="1008"
 			Prototype="genericLocation"
-			Pos="576.949 273.705 3683.750"
+			Pos="706.993 256.445 3699.259"
 			Rot="0.000 0.687 0.000 0.727"
-			Radius="50.000" />
+			Radius="35.000" />
 
 		<Object
 			Name="Svalka_enter"
 			Belong="1008"
 			Prototype="genericLocation"
-			Pos="576.949 273.705 3683.750"
+			Pos="559.226 277.677 3679.026"
 			Rot="0.000 0.687 0.000 0.727"
-			Radius="50.000" />
+			Radius="25.000" />
 
 		<Object
 			Name="Svalka_caravan"
 			Belong="1008"
 			Prototype="genericLocation"
-			Pos="646.836 257.887 3687.718"
+			Pos="694.158 256.547 3703.089"
 			Rot="0.000 0.687 0.000 0.727"
 			Radius="50.000" />
 
@@ -47022,4 +47022,900 @@
 	<Object
 		Belong="1100"
 		Prototype="someRecollection" />
+
+	<Object
+		Name="Object76482534"
+		Belong="-1"
+		Prototype="Breakable_Elka1"
+		Pos="552.232 288.212 3758.738"
+		Rot="0.000 0.035 0.000 0.999" />
+
+	<Object
+		Name="Object76482535"
+		Belong="-1"
+		Prototype="Breakable_Elka1"
+		Pos="537.543 289.425 3747.862"
+		Rot="0.000 0.602 0.000 0.799" />
+
+	<Object
+		Name="Object76482536"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="574.639 267.479 3579.160"
+		Rot="0.000 0.233 0.000 -0.972" />
+
+	<Object
+		Name="Object76482537"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="584.758 264.793 3599.033"
+		Rot="0.000 0.616 0.000 -0.788" />
+
+	<Object
+		Name="Object76482538"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="514.822 285.855 3580.347"
+		Rot="0.000 0.688 0.000 0.725" />
+
+	<Object
+		Name="Object76482539"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="527.169 281.412 3598.911"
+		Rot="0.000 0.317 0.000 -0.948" />
+
+	<Object
+		Name="Object76482540"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="484.283 288.306 3610.323"
+		Rot="0.000 0.921 0.000 -0.391" />
+
+	<Object
+		Name="Object76482541"
+		Belong="-1"
+		Prototype="Breakable_Elka1"
+		Pos="466.074 288.335 3626.504"
+		Rot="0.000 0.862 0.000 -0.508" />
+
+	<Object
+		Name="Object76482542"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe1"
+		Pos="513.732 294.395 3787.051"
+		Rot="0.000 0.566 0.000 0.824" />
+
+	<Object
+		Name="Object76482543"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="499.529 294.726 3773.264"
+		Rot="0.000 0.676 0.000 0.737" />
+
+	<Object
+		Name="Object76482544"
+		Belong="-1"
+		Prototype="Breakable_Elka1"
+		Pos="527.757 292.386 3765.816"
+		Rot="0.000 0.566 0.000 0.824" />
+
+	<Object
+		Name="Object76482545"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe1"
+		Pos="576.122 286.632 3777.837"
+		Rot="0.000 0.883 0.000 0.469" />
+
+	<Object
+		Name="Object76482546"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="560.007 290.938 3790.771"
+		Rot="0.000 0.250 0.000 -0.968" />
+
+	<Object
+		Name="Object76482547"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="529.793 294.127 3799.021"
+		Rot="0.000 0.688 0.000 0.725" />
+
+	<Object
+		Name="Object76482548"
+		Belong="-1"
+		Prototype="Breakable_Elka1"
+		Pos="534.595 296.384 3820.908"
+		Rot="0.000 0.755 0.000 0.656" />
+
+	<Object
+		Name="Object76482549"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe1"
+		Pos="448.281 296.551 3770.609"
+		Rot="0.000 0.105 0.000 0.995" />
+
+	<Object
+		Name="Object76482550"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="454.753 297.462 3790.404"
+		Rot="0.000 0.719 0.000 0.695" />
+
+	<Object
+		Name="Object76482551"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="432.020 300.149 3788.277"
+		Rot="0.000 1.000 0.000 -0.026" />
+
+	<Object
+		Name="Object76482552"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe1"
+		Pos="412.355 297.705 3756.818"
+		Rot="0.000 0.682 0.000 -0.731" />
+
+	<Object
+		Name="Object76482553"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="412.668 293.755 3730.652"
+		Rot="0.000 0.326 0.000 -0.946" />
+
+	<Object
+		Name="Object76482554"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="431.435 294.629 3745.580"
+		Rot="0.000 0.438 0.000 0.899" />
+
+	<Object
+		Name="Object76482555"
+		Belong="-1"
+		Prototype="Breakable_Elka2"
+		Pos="430.587 292.632 3730.261"
+		Rot="0.000 0.943 0.000 0.334" />
+
+	<Object
+		Name="Object76482556"
+		Belong="-1"
+		Prototype="Breakable_Elka3"
+		Pos="401.235 297.179 3746.563"
+		Rot="0.000 0.334 0.000 0.943" />
+
+	<Object
+		Name="Object76482557"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="456.839 293.231 3739.803"
+		Rot="0.000 0.407 0.000 0.914" />
+
+	<Object
+		Name="Object76482558"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="449.508 294.846 3753.410"
+		Rot="0.000 0.951 0.000 0.309" />
+
+	<Object
+		Name="Object76482559"
+		Belong="-1"
+		Prototype="Breakable_Elka3"
+		Pos="433.105 295.299 3751.284"
+		Rot="0.000 0.462 0.000 0.887" />
+
+	<Object
+		Name="Object76482560"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="405.106 290.783 3684.799"
+		Rot="0.000 0.824 0.000 0.566" />
+
+	<Object
+		Name="Object76482561"
+		Belong="-1"
+		Prototype="Breakable_Elka2"
+		Pos="429.860 288.232 3685.371"
+		Rot="0.000 0.485 0.000 -0.875" />
+
+	<Object
+		Name="Object76482562"
+		Belong="-1"
+		Prototype="Breakable_Elka3"
+		Pos="404.728 291.072 3668.724"
+		Rot="0.000 0.537 0.000 0.843" />
+
+	<Object
+		Name="Object76482563"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="434.960 289.825 3708.490"
+		Rot="0.000 0.139 0.000 -0.990" />
+
+	<Object
+		Name="Object76482564"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="453.349 290.671 3718.576"
+		Rot="0.000 0.431 0.000 -0.903" />
+
+	<Object
+		Name="Object76482565"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="444.838 288.459 3697.058"
+		Rot="0.000 0.267 0.000 -0.964" />
+
+	<Object
+		Name="Object76482566"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="436.772 291.764 3725.146"
+		Rot="0.000 0.946 0.000 -0.326" />
+
+	<Object
+		Name="Object76482567"
+		Belong="-1"
+		Prototype="Breakable_Elka3"
+		Pos="460.373 288.470 3699.307"
+		Rot="0.000 0.903 0.000 -0.431" />
+
+	<Object
+		Name="Object76482568"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="388.261 295.141 3716.656"
+		Rot="0.000 0.819 0.000 0.574" />
+
+	<Object
+		Name="Object76482569"
+		Belong="-1"
+		Prototype="Breakable_Elka3"
+		Pos="369.255 299.039 3703.652"
+		Rot="0.000 0.113 0.000 -0.994" />
+
+	<Object
+		Name="Object76482570"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="426.261 288.516 3659.874"
+		Rot="0.000 0.508 0.000 -0.862" />
+
+	<Object
+		Name="Object76482571"
+		Belong="-1"
+		Prototype="Breakable_Elka2"
+		Pos="405.286 296.216 3632.028"
+		Rot="0.000 0.026 0.000 -1.000" />
+
+	<Object
+		Name="Object76482572"
+		Belong="-1"
+		Prototype="Breakable_Elka3"
+		Pos="407.801 291.138 3657.964"
+		Rot="0.000 0.974 0.000 -0.225" />
+
+	<Object
+		Name="Object76482573"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="379.351 303.981 3764.541"
+		Rot="0.000 0.602 0.000 0.799" />
+
+	<Object
+		Name="Object76482574"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="379.001 311.673 3789.640"
+		Rot="0.000 0.477 0.000 0.879" />
+
+	<Object
+		Name="Object76482575"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="396.804 301.588 3766.815"
+		Rot="0.000 0.629 0.000 -0.777" />
+
+	<Object
+		Name="Object76482576"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe1"
+		Pos="398.664 306.215 3787.048"
+		Rot="0.000 0.914 0.000 -0.407" />
+
+	<Object
+		Name="Object76482577"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="414.307 302.518 3784.558"
+		Rot="0.000 0.148 0.000 0.989" />
+
+	<Object
+		Name="Object76482578"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="429.445 298.951 3776.736"
+		Rot="0.000 0.165 0.000 -0.986" />
+
+	<Object
+		Name="Object76482579"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="419.880 298.139 3764.254"
+		Rot="0.000 0.982 0.000 0.191" />
+
+	<Object
+		Name="Object76482580"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="380.132 296.115 3684.010"
+		Rot="0.000 0.342 0.000 -0.940" />
+
+	<Object
+		Name="Object76482581"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="374.027 299.097 3665.482"
+		Rot="0.000 0.629 0.000 -0.777" />
+
+	<Object
+		Name="Object76482582"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="394.205 293.077 3668.776"
+		Rot="0.000 0.052 0.000 -0.999" />
+
+	<Object
+		Name="Object76482583"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="397.309 292.233 3692.873"
+		Rot="0.000 0.122 0.000 0.993" />
+
+	<Object
+		Name="Object76482584"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="449.872 295.901 3601.705"
+		Rot="0.000 0.477 0.000 -0.879" />
+
+	<Object
+		Name="Object76482585"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe1"
+		Pos="432.043 293.636 3622.622"
+		Rot="0.000 0.636 0.000 -0.772" />
+
+	<Object
+		Name="Object76482586"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="476.290 294.475 3755.091"
+		Rot="0.000 0.477 0.000 0.879" />
+
+	<Object
+		Name="Object76482587"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="508.796 290.516 3727.638"
+		Rot="0.000 0.966 0.000 -0.259" />
+
+	<Object
+		Name="Object76482588"
+		Belong="-1"
+		Prototype="Breakable_Elka2"
+		Pos="472.318 292.529 3733.996"
+		Rot="0.000 0.749 0.000 0.663" />
+
+	<Object
+		Name="Object76482589"
+		Belong="-1"
+		Prototype="Breakable_Elka2"
+		Pos="479.361 295.434 3774.406"
+		Rot="0.000 0.317 0.000 -0.948" />
+
+	<Object
+		Name="Object76482590"
+		Belong="-1"
+		Prototype="Breakable_Elka3"
+		Pos="466.410 295.571 3768.480"
+		Rot="0.000 0.545 0.000 0.839" />
+
+	<Object
+		Name="Object76482591"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="443.257 301.915 3819.731"
+		Rot="0.000 0.997 0.000 -0.078" />
+
+	<Object
+		Name="Object76482592"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="459.855 297.480 3800.213"
+		Rot="0.000 0.959 0.000 0.284" />
+
+	<Object
+		Name="Object76482593"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="435.804 301.495 3803.720"
+		Rot="0.000 0.301 0.000 0.954" />
+
+	<Object
+		Name="Object76482594"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="459.980 298.452 3820.120"
+		Rot="0.000 0.719 0.000 0.695" />
+
+	<Object
+		Name="Object76482595"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="488.548 295.475 3798.874"
+		Rot="0.000 0.595 0.000 -0.804" />
+
+	<Object
+		Name="Object76482596"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe1"
+		Pos="482.653 295.883 3823.411"
+		Rot="0.000 0.725 0.000 -0.688" />
+
+	<Object
+		Name="Object76482597"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="474.775 296.313 3808.517"
+		Rot="0.000 0.799 0.000 0.602" />
+
+	<Object
+		Name="Object76482598"
+		Belong="-1"
+		Prototype="Breakable_Elka2"
+		Pos="465.297 297.672 3820.697"
+		Rot="0.000 0.515 0.000 -0.857" />
+
+	<Object
+		Name="Object76482599"
+		Belong="-1"
+		Prototype="Breakable_Elka3"
+		Pos="468.558 296.441 3792.065"
+		Rot="0.000 0.994 0.000 -0.113" />
+
+	<Object
+		Name="Object76482605"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="720.433 265.393 3635.866"
+		Rot="0.000 0.301 0.000 0.954" />
+
+	<Object
+		Name="Object76482606"
+		Belong="-1"
+		Prototype="Breakable_Elka1"
+		Pos="739.812 272.004 3646.212"
+		Rot="0.000 0.233 0.000 -0.972" />
+
+	<Object
+		Name="Object76482607"
+		Belong="-1"
+		Prototype="Breakable_Elka1"
+		Pos="724.834 262.619 3658.980"
+		Rot="0.000 0.199 0.000 0.980" />
+
+	<Object
+		Name="Object76482608"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe1"
+		Pos="678.181 254.391 3617.879"
+		Rot="0.000 0.737 0.000 -0.676" />
+
+	<Object
+		Name="Object76482609"
+		Belong="-1"
+		Prototype="Breakable_Elka1"
+		Pos="658.044 252.367 3601.349"
+		Rot="0.000 0.946 0.000 0.326" />
+
+	<Object
+		Name="Object76482610"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="619.747 254.063 3578.822"
+		Rot="0.000 0.602 0.000 0.799" />
+
+	<Object
+		Name="Object76482611"
+		Belong="-1"
+		Prototype="Breakable_Elka1"
+		Pos="596.220 260.568 3586.264"
+		Rot="0.000 1.000 0.000 -0.026" />
+
+	<Object
+		Name="Object76482612"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="654.565 251.724 3581.485"
+		Rot="0.000 0.937 0.000 0.350" />
+
+	<Object
+		Name="Object76482613"
+		Belong="-1"
+		Prototype="Breakable_Elka1"
+		Pos="627.879 253.880 3598.338"
+		Rot="0.000 0.663 0.000 0.749" />
+
+	<Object
+		Name="Object76482614"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="686.792 257.014 3595.817"
+		Rot="0.000 0.839 0.000 0.545" />
+
+	<Object
+		Name="Object76482615"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="680.296 258.345 3569.410"
+		Rot="0.000 0.391 0.000 -0.921" />
+
+	<Object
+		Name="Object76482616"
+		Belong="-1"
+		Prototype="Breakable_Elka1"
+		Pos="665.189 252.827 3594.317"
+		Rot="0.000 0.814 0.000 0.581" />
+
+	<Object
+		Name="Object76482617"
+		Belong="-1"
+		Prototype="Breakable_Elka1"
+		Pos="660.556 252.615 3574.499"
+		Rot="0.000 0.989 0.000 -0.148" />
+
+	<Object
+		Name="Object76482618"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="627.595 253.826 3526.585"
+		Rot="0.000 0.997 0.000 0.078" />
+
+	<Object
+		Name="Object76482619"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe1"
+		Pos="649.373 254.885 3527.449"
+		Rot="0.000 0.995 0.000 0.105" />
+
+	<Object
+		Name="Object76482620"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="643.658 257.459 3505.610"
+		Rot="0.000 0.824 0.000 0.566" />
+
+	<Object
+		Name="Object76482621"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="628.193 256.977 3509.695"
+		Rot="0.000 0.492 0.000 -0.870" />
+
+	<Object
+		Name="Object76482622"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="601.900 260.031 3524.281"
+		Rot="0.000 0.636 0.000 -0.772" />
+
+	<Object
+		Name="Object76482623"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="602.289 264.942 3506.019"
+		Rot="0.000 0.367 0.000 0.930" />
+
+	<Object
+		Name="Object76482624"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe1"
+		Pos="618.169 256.994 3516.095"
+		Rot="0.000 0.927 0.000 -0.375" />
+
+	<Object
+		Name="Object76482625"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="622.583 253.772 3531.947"
+		Rot="0.000 0.485 0.000 0.875" />
+
+	<Object
+		Name="Object76482626"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe1"
+		Pos="610.854 255.230 3543.750"
+		Rot="0.000 0.131 0.000 0.991" />
+
+	<Object
+		Name="Object76482627"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="593.203 260.757 3545.930"
+		Rot="0.000 0.866 0.000 0.500" />
+
+	<Object
+		Name="Object76482628"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="602.305 257.618 3559.270"
+		Rot="0.000 0.391 0.000 -0.921" />
+
+	<Object
+		Name="Object76482629"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="636.533 252.391 3541.028"
+		Rot="0.000 0.839 0.000 -0.545" />
+
+	<Object
+		Name="Object76482630"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="635.063 251.353 3567.349"
+		Rot="0.000 0.174 0.000 -0.985" />
+
+	<Object
+		Name="Object76482631"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="675.535 264.481 3527.672"
+		Rot="0.000 0.927 0.000 0.375" />
+
+	<Object
+		Name="Object76482632"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="682.746 272.116 3510.853"
+		Rot="0.000 0.522 0.000 -0.853" />
+
+	<Object
+		Name="Object76482633"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="666.393 264.477 3505.808"
+		Rot="0.000 0.225 0.000 -0.974" />
+
+	<Object
+		Name="Object76482634"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe1"
+		Pos="659.967 258.282 3522.726"
+		Rot="0.000 0.225 0.000 0.974" />
+
+	<Object
+		Name="Object76482635"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="672.557 258.534 3554.162"
+		Rot="0.000 0.182 0.000 0.983" />
+
+	<Object
+		Name="Object76482636"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="658.954 255.921 3542.032"
+		Rot="0.000 0.358 0.000 0.934" />
+
+	<Object
+		Name="Object76482637"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="685.867 266.570 3543.838"
+		Rot="0.000 0.602 0.000 0.799" />
+
+	<Object
+		Name="Object76482638"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="656.946 253.086 3563.010"
+		Rot="0.000 1.000 0.000 -0.009" />
+
+	<Object
+		Name="Object76482639"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="569.606 273.556 3523.875"
+		Rot="0.000 0.588 0.000 -0.809" />
+
+	<Object
+		Name="Object76482640"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="568.936 278.752 3506.819"
+		Rot="0.000 0.087 0.000 0.996" />
+
+	<Object
+		Name="Object76482641"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe1"
+		Pos="588.961 264.219 3528.720"
+		Rot="0.000 0.999 0.000 -0.035" />
+
+	<Object
+		Name="Object76482642"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="584.801 271.166 3508.564"
+		Rot="0.000 0.301 0.000 -0.954" />
+
+	<Object
+		Name="Object76482643"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="549.342 278.451 3545.741"
+		Rot="0.000 0.595 0.000 0.804" />
+
+	<Object
+		Name="Object76482644"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="537.467 281.461 3557.111"
+		Rot="0.000 0.656 0.000 -0.755" />
+
+	<Object
+		Name="Object76482645"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="554.629 275.205 3560.171"
+		Rot="0.000 0.446 0.000 0.895" />
+
+	<Object
+		Name="Object76482646"
+		Belong="-1"
+		Prototype="Breakable_Elka3"
+		Pos="529.218 286.229 3538.302"
+		Rot="0.000 0.993 0.000 0.122" />
+
+	<Object
+		Name="Object76482647"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="489.789 302.546 3496.337"
+		Rot="0.000 0.682 0.000 0.731" />
+
+	<Object
+		Name="Object76482648"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe1"
+		Pos="472.596 307.369 3492.750"
+		Rot="0.000 0.113 0.000 -0.994" />
+
+	<Object
+		Name="Object76482649"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="512.444 305.016 3479.286"
+		Rot="0.000 0.454 0.000 -0.891" />
+
+	<Object
+		Name="Object76482650"
+		Belong="-1"
+		Prototype="Breakable_Elka2"
+		Pos="499.563 299.261 3502.844"
+		Rot="0.000 0.139 0.000 -0.990" />
+
+	<Object
+		Name="Object76482651"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="497.941 293.051 3554.113"
+		Rot="0.000 0.985 0.000 0.174" />
+
+	<Object
+		Name="Object76482652"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe1"
+		Pos="513.663 288.192 3560.733"
+		Rot="0.000 0.009 0.000 -1.000" />
+
+	<Object
+		Name="Object76482653"
+		Belong="-1"
+		Prototype="Breakable_Elka3"
+		Pos="496.081 295.286 3536.888"
+		Rot="0.000 0.284 0.000 -0.959" />
+
+	<Object
+		Name="Object76482654"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="483.890 292.757 3582.747"
+		Rot="0.000 0.317 0.000 -0.948" />
+
+	<Object
+		Name="Object76482655"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe1"
+		Pos="475.050 291.627 3599.769"
+		Rot="0.000 0.743 0.000 -0.669" />
+
+	<Object
+		Name="Object76482656"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="465.636 296.858 3582.732"
+		Rot="0.000 0.930 0.000 0.367" />
+
+	<Object
+		Name="Object76482657"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="495.504 288.671 3593.368"
+		Rot="0.000 0.974 0.000 -0.225" />
+
+	<Object
+		Name="Object76482658"
+		Belong="-1"
+		Prototype="Breakable_Elka3"
+		Pos="470.557 298.301 3568.035"
+		Rot="0.000 0.682 0.000 -0.731" />
+
+	<Object
+		Name="Object76482659"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="629.912 271.427 3745.790"
+		Rot="0.000 0.976 0.000 -0.216" />
+
+	<Object
+		Name="Object76482660"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="642.299 265.099 3728.594"
+		Rot="0.000 0.566 0.000 -0.824" />
+
+	<Object
+		Name="Object76482661"
+		Belong="-1"
+		Prototype="Breakable_Elka1"
+		Pos="649.163 270.905 3752.475"
+		Rot="0.000 0.623 0.000 -0.783" />
+
+	<Object
+		Name="Object76482662"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="696.222 272.755 3770.953"
+		Rot="0.000 0.990 0.000 -0.139" />
+
+	<Object
+		Name="Object76482663"
+		Belong="-1"
+		Prototype="Breakable_Elka1"
+		Pos="708.673 277.975 3790.726"
+		Rot="0.000 0.096 0.000 0.995" />
+
+	<Object
+		Name="Object76482664"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="690.844 265.830 3750.010"
+		Rot="0.000 0.986 0.000 -0.165" />
+
+	<Object
+		Name="Object76482665"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="719.676 262.767 3745.189"
+		Rot="0.000 0.994 0.000 0.113" />
+
+	<Object
+		Name="Object76482666"
+		Belong="-1"
+		Prototype="Breakable_Elka1"
+		Pos="703.037 260.262 3731.352"
+		Rot="0.000 0.669 0.000 -0.743" />
 </DynamicScene>
