@@ -36222,7 +36222,7 @@
 		Belong="1008"
 		Prototype="r1m1_Sosnovka"
 		Pos="1592.768 303.188 2047.053"
-		PointOfViewInInterface="5.000 20.000 5.000"
+		PointOfViewInInterface="50.000 50.000 50.000"
 		CaravansDest="">
 		<Object
 			Name="Sosnovka_Bar"
