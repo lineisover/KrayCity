@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <DynamicScene
-	LastId="4633">
+	LastId="4653">
 	<TargetNamesForDestroy
 		Names="u1 u2 u3 u4 u5 u6 u7 u8 u9" />
 
@@ -35841,7 +35841,7 @@
 		Name="Object76477862"
 		Belong="-1"
 		Prototype="Breakable_Listvenoe3"
-		Pos="2094.026 373.976 1946.651"
+		Pos="2094.026 370.028 1946.651"
 		Rot="0.000 0.454 0.000 0.891" />
 
 	<Object
@@ -36088,21 +36088,21 @@
 		Name="neftanka_man1"
 		Belong="1001"
 		Prototype="Human"
-		Pos="2180.708 356.417 1885.382"
+		Pos="2180.708 356.468 1885.382"
 		PathsNames="neftanka_man1" />
 
 	<Object
 		Name="neftanka_man2"
 		Belong="1001"
 		Prototype="Human2"
-		Pos="2178.120 357.395 1890.055"
+		Pos="2178.120 357.278 1890.055"
 		PathsNames="neftanka_man2" />
 
 	<Object
 		Name="neftanka_man3"
 		Belong="1001"
 		Prototype="Human3"
-		Pos="2175.122 358.652 1895.102"
+		Pos="2175.122 358.000 1895.102"
 		PathsNames="neftanka_man3" />
 
 	<Object
@@ -41413,15 +41413,15 @@
 		Name="Lukoil"
 		Belong="1008"
 		Prototype="r1m1_Lukoil"
-		Pos="2196.430 355.832 1897.621"
+		Pos="2196.430 355.809 1897.621"
 		Rot="-0.004 0.693 0.005 0.721"
-		PointOfViewInInterface="5.000 20.000 5.000"
+		PointOfViewInInterface="50.000 50.000 50.000"
 		CaravansDest="">
 		<Object
 			Name="Lukoil_defend"
 			Belong="1008"
 			Prototype="genericLocation"
-			Pos="2246.450 349.589 1899.575"
+			Pos="2503.824 325.411 2007.496"
 			Rot="-0.004 0.693 0.005 0.721"
 			Radius="50.000"
 			Active="0" />
@@ -41519,7 +41519,7 @@
 			Name="Lukoil_deploy"
 			Belong="1008"
 			Prototype="genericLocation"
-			Pos="2196.434 355.515 1897.620"
+			Pos="2266.537 347.202 1904.870"
 			Rot="-0.004 0.693 0.005 0.721"
 			Radius="50.000" />
 
@@ -41527,9 +41527,9 @@
 			Name="Lukoil_enter"
 			Belong="1008"
 			Prototype="genericLocation"
-			Pos="2196.434 355.515 1897.620"
+			Pos="2177.185 357.510 1892.981"
 			Rot="-0.004 0.693 0.005 0.721"
-			Radius="50.000" />
+			Radius="36.000" />
 
 		<Parts>
 			<AttackTeam
@@ -45780,10 +45780,6 @@
 		Rot="0.000 0.986 0.000 0.165" />
 
 	<Object
-		Belong="1100"
-		Prototype="someRecollection" />
-
-	<Object
 		Name="Breakable_WoodFence14621"
 		Belong="1001"
 		Prototype="Breakable_WoodFence1"
@@ -45856,4 +45852,249 @@
 		Prototype="Breakable_WoodFence1"
 		Pos="2223.338 357.483 1776.082"
 		Rot="0.000 -1.000 0.000 0.028" />
+
+	<Object
+		Name="Breakable_TankEg4633"
+		Belong="1001"
+		Prototype="Breakable_TankEg"
+		Pos="2295.375 345.573 1905.991" />
+
+	<Object
+		Name="Breakable_TankEg4634"
+		Belong="1001"
+		Prototype="Breakable_TankEg"
+		Pos="2268.000 348.774 1876.291" />
+
+	<Object
+		Name="Breakable_SackWall14635"
+		Belong="1001"
+		Prototype="Breakable_SackWall1"
+		Pos="2299.386 345.518 1909.399"
+		Rot="0.000 0.434 0.000 0.901" />
+
+	<Object
+		Name="Breakable_SackWall24636"
+		Belong="1001"
+		Prototype="Breakable_SackWall2"
+		Pos="2270.549 348.621 1878.328"
+		Rot="0.000 0.545 0.000 0.839" />
+
+	<Object
+		Name="Breakable_SackWall14637"
+		Belong="1001"
+		Prototype="Breakable_SackWall1"
+		Pos="2292.203 347.525 1886.193"
+		Rot="0.000 -0.274 0.000 0.962" />
+
+	<Object
+		Name="Breakable_SackWall14638"
+		Belong="1001"
+		Prototype="Breakable_SackWall1"
+		Pos="2281.935 346.079 1904.184"
+		Rot="0.000 -0.257 0.000 0.966" />
+
+	<Object
+		Name="Breakable_SackWall14639"
+		Belong="1001"
+		Prototype="Breakable_SackWall1"
+		Pos="2305.863 346.820 1897.148"
+		Rot="0.000 -0.375 0.000 0.927" />
+
+	<Object
+		Name="Breakable_SackWall14642"
+		Belong="1001"
+		Prototype="Breakable_SackWall1"
+		Pos="2289.904 345.512 1909.220"
+		Rot="0.000 -0.286 0.000 0.958" />
+
+	<Object
+		Name="Breakable_SackWall24644"
+		Belong="1001"
+		Prototype="Breakable_SackWall2"
+		Pos="2272.739 347.354 1898.818"
+		Rot="0.000 -0.238 0.000 0.971" />
+
+	<Object
+		Name="Breakable_SackWall24645"
+		Belong="1001"
+		Prototype="Breakable_SackWall2"
+		Pos="2298.794 347.219 1891.126"
+		Rot="0.000 -0.317 0.000 0.948" />
+
+	<Object
+		Name="Breakable_SackWall14646"
+		Belong="1001"
+		Prototype="Breakable_SackWall1"
+		Pos="2284.845 347.900 1881.376"
+		Rot="0.000 -0.284 0.000 0.959" />
+
+	<Object
+		Name="Breakable_SackWall14647"
+		Belong="1001"
+		Prototype="Breakable_SackWall1"
+		Pos="2277.532 348.342 1876.866"
+		Rot="0.000 -0.263 0.000 0.965" />
+
+	<Object
+		Name="Breakable_BrickWall14648"
+		Belong="1001"
+		Prototype="Breakable_BrickWall1"
+		Pos="2267.472 348.813 1870.883"
+		Rot="0.000 -0.330 0.000 0.944" />
+
+	<Object
+		Name="Breakable_BrickWall14649"
+		Belong="1001"
+		Prototype="Breakable_BrickWall1"
+		Pos="2259.208 349.604 1857.411"
+		Rot="0.000 -0.466 0.000 0.885" />
+
+	<Object
+		Name="Breakable_BrickWall24650"
+		Belong="1001"
+		Prototype="Breakable_BrickWall2"
+		Pos="2263.027 349.207 1864.516"
+		Rot="0.000 -0.574 0.000 0.819" />
+
+	<Object
+		Name="Breakable_Barrel14651"
+		Belong="1001"
+		Prototype="Breakable_Barrel1"
+		Pos="2208.880 353.381 1884.400" />
+
+	<Object
+		Name="Breakable_Barrel14652"
+		Belong="1001"
+		Prototype="Breakable_Barrel1"
+		Pos="2209.130 353.237 1882.923" />
+
+	<Object
+		Belong="1100"
+		Prototype="someRecollection" />
+
+	<Object
+		Name="Object76483725"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="2350.177 352.068 1883.474"
+		Rot="0.000 0.469 0.000 0.883" />
+
+	<Object
+		Name="Object76483726"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="2225.445 359.608 1977.815"
+		Rot="0.000 0.978 0.000 -0.208" />
+
+	<Object
+		Name="Object76483727"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="2308.155 349.013 1995.711"
+		Rot="0.000 0.609 0.000 0.793" />
+
+	<Object
+		Name="Object76483728"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="2406.973 340.873 1961.288"
+		Rot="0.000 0.991 0.000 0.131" />
+
+	<Object
+		Name="Object76483729"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="2400.577 347.453 1926.431"
+		Rot="0.000 0.903 0.000 -0.431" />
+
+	<Object
+		Name="Object76483730"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="2390.362 354.345 2044.475"
+		Rot="0.000 0.259 0.000 -0.966" />
+
+	<Object
+		Name="Object76483731"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="2351.595 360.610 2057.007"
+		Rot="0.000 0.044 0.000 0.999" />
+
+	<Object
+		Name="Object76483732"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="2330.914 357.542 2051.934"
+		Rot="0.000 0.804 0.000 0.595" />
+
+	<Object
+		Name="Object76483733"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="2407.203 358.594 2066.605"
+		Rot="0.000 0.165 0.000 0.986" />
+
+	<Object
+		Name="Object76483734"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="2385.047 369.882 2072.311"
+		Rot="0.000 1.000 0.000 0.017" />
+
+	<Object
+		Name="Object76483735"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="2119.052 358.013 1821.367"
+		Rot="0.000 0.522 0.000 0.853" />
+
+	<Object
+		Name="Object76483736"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="2102.941 363.322 1826.113"
+		Rot="0.000 0.943 0.000 -0.334" />
+
+	<Object
+		Name="Object76483737"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="2121.658 362.595 1896.065"
+		Rot="0.000 0.342 0.000 0.940" />
+
+	<Object
+		Name="Object76483738"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="2097.976 367.250 1896.834"
+		Rot="0.000 0.061 0.000 -0.998" />
+
+	<Object
+		Name="Object76483739"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="2339.089 352.067 1870.248"
+		Rot="0.000 0.866 0.000 -0.500" />
+
+	<Object
+		Name="Object76483740"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="2473.177 340.645 2052.137"
+		Rot="0.000 0.991 0.000 0.131" />
+
+	<Object
+		Name="Object76483741"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe3"
+		Pos="2457.234 342.078 2047.783"
+		Rot="0.000 0.581 0.000 0.814" />
+
+	<Object
+		Name="Object76483742"
+		Belong="-1"
+		Prototype="Breakable_Listvenoe2"
+		Pos="2504.730 331.680 1963.436"
+		Rot="0.000 0.906 0.000 0.423" />
 </DynamicScene>
