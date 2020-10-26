@@ -44014,23 +44014,11 @@
 	</Object>
 
 	<Object
-		Name="road_sign14598"
-		Belong="1001"
-		Prototype="road_sign1"
-		Pos="1618.488 286.856 3192.856" />
-
-	<Object
 		Name="road_sign34600"
 		Belong="1001"
 		Prototype="road_sign3"
 		Pos="1616.785 289.813 3220.164"
 		Rot="0.000 -0.722 0.000 0.692" />
-
-	<Object
-		Name="road_sign44601"
-		Belong="1001"
-		Prototype="road_sign4"
-		Pos="1630.693 287.614 3191.865" />
 
 	<Object
 		Name="Breakable_WoodFence14605"
@@ -45969,10 +45957,6 @@
 		Pos="2209.130 353.237 1882.923" />
 
 	<Object
-		Belong="1100"
-		Prototype="someRecollection" />
-
-	<Object
 		Name="Object76483725"
 		Belong="-1"
 		Prototype="Breakable_Listvenoe3"
@@ -46004,8 +45988,8 @@
 		Name="Object76483729"
 		Belong="-1"
 		Prototype="Breakable_Listvenoe3"
-		Pos="2400.577 347.453 1926.431"
-		Rot="0.000 0.903 0.000 -0.431" />
+		Pos="2400.577 347.452 1926.431"
+		Rot="0.000 0.902 0.000 -0.431" />
 
 	<Object
 		Name="Object76483730"
@@ -46097,4 +46081,8 @@
 		Prototype="Breakable_Listvenoe2"
 		Pos="2504.730 331.680 1963.436"
 		Rot="0.000 0.906 0.000 0.423" />
+
+	<Object
+		Belong="1100"
+		Prototype="someRecollection" />
 </DynamicScene>
