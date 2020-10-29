@@ -36561,25 +36561,11 @@
 		Rot="0.000 0.999 0.000 -0.044" />
 
 	<Object
-		Name="Object76481325"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1432.398 320.129 222.843"
-		Rot="0.000 0.998 0.000 0.070" />
-
-	<Object
 		Name="Object76481326"
 		Belong="-1"
 		Prototype="Breakable_Listvenoe1"
 		Pos="1452.588 297.812 227.955"
 		Rot="0.000 0.934 0.000 -0.358" />
-
-	<Object
-		Name="Object76481327"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1439.006 320.129 238.167"
-		Rot="0.000 0.383 0.000 -0.924" />
 
 	<Object
 		Name="Object76481328"
@@ -36601,20 +36587,6 @@
 		Prototype="Breakable_Listvenoe1"
 		Pos="1487.008 305.831 228.389"
 		Rot="0.000 0.755 0.000 0.656" />
-
-	<Object
-		Name="Object76481331"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1470.629 311.568 208.778"
-		Rot="0.000 0.707 0.000 0.707" />
-
-	<Object
-		Name="Object76481332"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1487.489 320.112 209.588"
-		Rot="0.000 0.990 0.000 0.139" />
 
 	<Object
 		Name="Object76481333"
@@ -36671,13 +36643,6 @@
 		Prototype="Breakable_Listvenoe2"
 		Pos="1504.354 290.200 270.053"
 		Rot="0.000 0.760 0.000 0.649" />
-
-	<Object
-		Name="Object76481341"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1516.858 302.964 243.013"
-		Rot="0.000 0.454 0.000 0.891" />
 
 	<Object
 		Name="Object76481342"
@@ -36806,13 +36771,6 @@
 		Rot="0.000 0.334 0.000 -0.943" />
 
 	<Object
-		Name="Object76481360"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1523.180 285.369 364.588"
-		Rot="0.000 0.122 0.000 -0.993" />
-
-	<Object
 		Name="Object76481361"
 		Belong="-1"
 		Prototype="Breakable_Listvenoe1"
@@ -36820,3299 +36778,11 @@
 		Rot="0.000 0.731 0.000 0.682" />
 
 	<Object
-		Name="Object76481362"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1550.709 293.133 287.098"
-		Rot="0.000 0.978 0.000 -0.208" />
-
-	<Object
 		Name="Object76481363"
 		Belong="-1"
 		Prototype="Breakable_Listvenoe3"
 		Pos="1521.310 290.238 274.277"
 		Rot="0.000 0.301 0.000 0.954" />
-
-	<Object
-		Name="Object76481364"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1524.390 284.792 448.799"
-		Rot="0.000 0.998 0.000 0.061" />
-
-	<Object
-		Name="Object76481365"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1551.607 297.546 450.190"
-		Rot="0.000 0.462 0.000 0.887" />
-
-	<Object
-		Name="Object76481366"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1541.274 293.094 462.422"
-		Rot="0.000 0.999 0.000 -0.044" />
-
-	<Object
-		Name="Object76481367"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1520.888 282.848 432.149"
-		Rot="0.000 0.156 0.000 -0.988" />
-
-	<Object
-		Name="Object76481368"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1537.010 287.792 438.206"
-		Rot="0.000 0.643 0.000 0.766" />
-
-	<Object
-		Name="Object76481369"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1525.138 286.677 463.945"
-		Rot="0.000 0.719 0.000 -0.695" />
-
-	<Object
-		Name="Object76481370"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1528.010 290.784 486.985"
-		Rot="0.000 0.317 0.000 -0.948" />
-
-	<Object
-		Name="Object76481371"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1542.226 297.323 480.998"
-		Rot="0.000 0.676 0.000 0.737" />
-
-	<Object
-		Name="Object76481372"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1547.868 297.968 464.949"
-		Rot="0.000 0.937 0.000 -0.350" />
-
-	<Object
-		Name="Object76481373"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1524.728 287.435 470.826"
-		Rot="0.000 0.208 0.000 -0.978" />
-
-	<Object
-		Name="Object76481374"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1551.522 309.306 495.546"
-		Rot="0.000 0.446 0.000 0.895" />
-
-	<Object
-		Name="Object76481375"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1530.838 306.032 525.450"
-		Rot="0.000 0.462 0.000 0.887" />
-
-	<Object
-		Name="Object76481376"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1530.035 297.557 506.684"
-		Rot="0.000 0.804 0.000 0.595" />
-
-	<Object
-		Name="Object76481377"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1548.904 307.088 496.317"
-		Rot="0.000 0.924 0.000 0.383" />
-
-	<Object
-		Name="Object76481378"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1546.469 324.448 526.650"
-		Rot="0.000 0.105 0.000 -0.994" />
-
-	<Object
-		Name="Object76481379"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1544.782 307.814 511.272"
-		Rot="0.000 0.998 0.000 -0.070" />
-
-	<Object
-		Name="Object76481380"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1501.191 292.188 511.279"
-		Rot="0.000 0.317 0.000 -0.948" />
-
-	<Object
-		Name="Object76481381"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1512.065 289.513 499.386"
-		Rot="0.000 0.993 0.000 0.122" />
-
-	<Object
-		Name="Object76481382"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1519.804 300.992 524.599"
-		Rot="0.000 0.976 0.000 0.216" />
-
-	<Object
-		Name="Object76481383"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1492.671 287.906 498.807"
-		Rot="0.000 0.788 0.000 0.616" />
-
-	<Object
-		Name="Object76481384"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1490.562 299.528 527.930"
-		Rot="0.000 0.994 0.000 -0.113" />
-
-	<Object
-		Name="Object76481385"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1464.097 298.867 525.237"
-		Rot="0.000 0.824 0.000 -0.566" />
-
-	<Object
-		Name="Object76481386"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1473.774 288.516 500.249"
-		Rot="0.000 0.982 0.000 -0.191" />
-
-	<Object
-		Name="Object76481387"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1484.192 292.893 513.721"
-		Rot="0.000 0.985 0.000 0.174" />
-
-	<Object
-		Name="Object76481388"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1441.910 300.400 527.689"
-		Rot="0.000 0.930 0.000 -0.367" />
-
-	<Object
-		Name="Object76481389"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1432.344 292.162 509.885"
-		Rot="0.000 0.998 0.000 0.061" />
-
-	<Object
-		Name="Object76481390"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1450.754 290.762 505.546"
-		Rot="0.000 0.682 0.000 0.731" />
-
-	<Object
-		Name="Object76481391"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1424.836 298.355 523.820"
-		Rot="0.000 0.407 0.000 -0.914" />
-
-	<Object
-		Name="Object76481392"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1424.853 289.235 496.862"
-		Rot="0.000 0.477 0.000 0.879" />
-
-	<Object
-		Name="Object76481393"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1399.331 300.477 523.602"
-		Rot="0.000 0.208 0.000 0.978" />
-
-	<Object
-		Name="Object76481394"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1410.515 291.361 508.047"
-		Rot="0.000 0.026 0.000 -1.000" />
-
-	<Object
-		Name="Object76481395"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1414.357 298.469 523.063"
-		Rot="0.000 0.078 0.000 0.997" />
-
-	<Object
-		Name="Object76481396"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1394.114 287.945 474.609"
-		Rot="0.000 0.966 0.000 -0.259" />
-
-	<Object
-		Name="Object76481397"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1413.864 287.674 482.662"
-		Rot="0.000 0.070 0.000 0.998" />
-
-	<Object
-		Name="Object76481398"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1394.905 289.317 493.607"
-		Rot="0.000 0.044 0.000 -0.999" />
-
-	<Object
-		Name="Object76481399"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1372.160 290.643 487.179"
-		Rot="0.000 0.574 0.000 0.819" />
-
-	<Object
-		Name="Object76481400"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1374.700 288.465 468.784"
-		Rot="0.000 0.017 0.000 -1.000" />
-
-	<Object
-		Name="Object76481401"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1390.485 289.687 494.888"
-		Rot="0.000 0.636 0.000 0.772" />
-
-	<Object
-		Name="Object76481402"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1390.785 287.876 471.114"
-		Rot="0.000 0.250 0.000 -0.968" />
-
-	<Object
-		Name="Object76481403"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1362.565 287.887 455.408"
-		Rot="0.000 0.522 0.000 0.853" />
-
-	<Object
-		Name="Object76481404"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1399.687 337.990 554.665"
-		Rot="0.000 0.174 0.000 -0.985" />
-
-	<Object
-		Name="Object76481405"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1421.628 318.038 544.159"
-		Rot="0.000 0.814 0.000 -0.581" />
-
-	<Object
-		Name="Object76481406"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1406.967 313.760 537.967"
-		Rot="0.000 0.078 0.000 0.997" />
-
-	<Object
-		Name="Object76481407"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1421.314 301.733 528.163"
-		Rot="0.000 0.656 0.000 0.755" />
-
-	<Object
-		Name="Object76481408"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1394.029 292.709 509.475"
-		Rot="0.000 0.682 0.000 -0.731" />
-
-	<Object
-		Name="Object76481409"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1323.115 286.252 437.881"
-		Rot="0.000 0.096 0.000 0.995" />
-
-	<Object
-		Name="Object76481410"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1307.588 288.231 440.954"
-		Rot="0.000 0.156 0.000 -0.988" />
-
-	<Object
-		Name="Object76481411"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1303.131 291.853 459.504"
-		Rot="0.000 0.326 0.000 0.945" />
-
-	<Object
-		Name="Object76481412"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1326.256 289.146 456.042"
-		Rot="0.000 0.713 0.000 -0.701" />
-
-	<Object
-		Name="Object76481413"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1161.111 286.578 274.921"
-		Rot="0.000 0.799 0.000 0.602" />
-
-	<Object
-		Name="Object76481414"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1143.328 288.238 275.001"
-		Rot="0.000 0.959 0.000 0.284" />
-
-	<Object
-		Name="Object76481415"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1153.884 285.364 254.406"
-		Rot="0.000 0.643 0.000 -0.766" />
-
-	<Object
-		Name="Object76481416"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1146.667 284.657 240.023"
-		Rot="0.000 0.980 0.000 -0.199" />
-
-	<Object
-		Name="Object76481417"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1167.769 285.850 271.113"
-		Rot="0.000 0.945 0.000 0.326" />
-
-	<Object
-		Name="Object76481418"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1139.008 287.661 263.430"
-		Rot="0.000 0.966 0.000 0.259" />
-
-	<Object
-		Name="Object76481419"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1162.081 283.613 240.166"
-		Rot="0.000 0.920 0.000 0.391" />
-
-	<Object
-		Name="Object76481420"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1122.614 290.049 265.772"
-		Rot="0.000 0.819 0.000 -0.574" />
-
-	<Object
-		Name="Object76481421"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1118.127 288.750 246.765"
-		Rot="0.000 0.438 0.000 0.899" />
-
-	<Object
-		Name="Object76481422"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1108.628 291.657 259.502"
-		Rot="0.000 0.423 0.000 0.906" />
-
-	<Object
-		Name="Object76481423"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1133.464 286.401 243.859"
-		Rot="0.000 0.602 0.000 0.799" />
-
-	<Object
-		Name="Object76481424"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1090.996 291.131 222.424"
-		Rot="0.000 0.566 0.000 -0.824" />
-
-	<Object
-		Name="Object76481425"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1074.797 293.880 216.514"
-		Rot="0.000 0.959 0.000 0.284" />
-
-	<Object
-		Name="Object76481426"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1099.115 288.678 209.368"
-		Rot="0.000 0.407 0.000 0.914" />
-
-	<Object
-		Name="Object76481427"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1080.036 294.605 235.906"
-		Rot="0.000 1.000 0.000 0.009" />
-
-	<Object
-		Name="Object76481428"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1094.763 292.031 239.475"
-		Rot="0.000 0.968 0.000 0.250" />
-
-	<Object
-		Name="Object76481429"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1095.580 288.602 188.445"
-		Rot="0.000 0.707 0.000 -0.707" />
-
-	<Object
-		Name="Object76481430"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1074.443 292.657 193.113"
-		Rot="0.000 0.910 0.000 -0.415" />
-
-	<Object
-		Name="Object76481431"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1080.906 291.207 176.394"
-		Rot="0.000 0.334 0.000 0.943" />
-
-	<Object
-		Name="Object76481432"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1095.135 289.230 206.687"
-		Rot="0.000 0.914 0.000 -0.407" />
-
-	<Object
-		Name="Object76481433"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1049.235 297.135 176.452"
-		Rot="0.000 0.492 0.000 -0.870" />
-
-	<Object
-		Name="Object76481434"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1048.143 297.619 191.734" />
-
-	<Object
-		Name="Object76481435"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1063.381 295.539 207.990"
-		Rot="0.000 0.309 0.000 0.951" />
-
-	<Object
-		Name="Object76481436"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1068.784 293.642 189.474"
-		Rot="0.000 0.879 0.000 -0.477" />
-
-	<Object
-		Name="Object76481437"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1043.537 299.142 206.936"
-		Rot="0.000 0.934 0.000 -0.358" />
-
-	<Object
-		Name="Object76481438"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1071.248 294.954 150.701"
-		Rot="0.000 0.242 0.000 -0.970" />
-
-	<Object
-		Name="Object76481439"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1054.680 298.483 150.766"
-		Rot="0.000 0.829 0.000 0.559" />
-
-	<Object
-		Name="Object76481440"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1049.565 297.171 173.637"
-		Rot="0.000 0.574 0.000 -0.819" />
-
-	<Object
-		Name="Object76481441"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1070.812 293.051 172.444"
-		Rot="0.000 0.994 0.000 0.113" />
-
-	<Object
-		Name="Object76481442"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1098.416 290.018 151.175"
-		Rot="0.000 0.326 0.000 0.945" />
-
-	<Object
-		Name="Object76481443"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1089.504 290.088 163.347"
-		Rot="0.000 0.755 0.000 0.656" />
-
-	<Object
-		Name="Object76481444"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1100.236 287.932 175.390"
-		Rot="0.000 0.044 0.000 0.999" />
-
-	<Object
-		Name="Object76481445"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1093.980 305.356 117.720"
-		Rot="0.000 0.139 0.000 0.990" />
-
-	<Object
-		Name="Object76481446"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1085.620 298.395 131.653"
-		Rot="0.000 0.937 0.000 0.350" />
-
-	<Object
-		Name="Object76481447"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1102.263 294.164 135.347"
-		Rot="0.000 0.725 0.000 0.688" />
-
-	<Object
-		Name="Object76481448"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1078.331 309.788 113.231"
-		Rot="0.000 0.559 0.000 0.829" />
-
-	<Object
-		Name="Object76481449"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1124.580 306.258 114.818"
-		Rot="0.000 0.500 0.000 0.866" />
-
-	<Object
-		Name="Object76481450"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1130.228 289.715 140.535"
-		Rot="0.000 0.924 0.000 0.383" />
-
-	<Object
-		Name="Object76481451"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1104.617 306.240 115.952"
-		Rot="0.000 0.743 0.000 0.669" />
-
-	<Object
-		Name="Object76481452"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1108.745 295.017 132.757"
-		Rot="0.000 0.999 0.000 -0.052" />
-
-	<Object
-		Name="Object76481453"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1145.915 308.645 112.104"
-		Rot="0.000 0.930 0.000 0.367" />
-
-	<Object
-		Name="Object76481454"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1157.589 299.357 122.371"
-		Rot="0.000 0.814 0.000 0.581" />
-
-	<Object
-		Name="Object76481455"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1137.953 289.387 140.746"
-		Rot="0.000 0.383 0.000 0.924" />
-
-	<Object
-		Name="Object76481456"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1152.983 288.709 142.930"
-		Rot="0.000 0.766 0.000 -0.643" />
-
-	<Object
-		Name="Object76481457"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1137.923 297.292 125.333"
-		Rot="0.000 0.959 0.000 -0.284" />
-
-	<Object
-		Name="Object76481458"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1176.078 291.001 137.207"
-		Rot="0.000 0.191 0.000 -0.982" />
-
-	<Object
-		Name="Object76481459"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1197.708 304.254 115.740"
-		Rot="0.000 0.616 0.000 -0.788" />
-
-	<Object
-		Name="Object76481460"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1191.296 290.743 137.350"
-		Rot="0.000 0.945 0.000 0.326" />
-
-	<Object
-		Name="Object76481461"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1176.460 308.453 112.454"
-		Rot="0.000 0.749 0.000 -0.663" />
-
-	<Object
-		Name="Object76481462"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1223.984 299.154 116.408"
-		Rot="0.000 0.350 0.000 0.937" />
-
-	<Object
-		Name="Object76481463"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1228.268 292.035 132.679"
-		Rot="0.000 0.937 0.000 0.350" />
-
-	<Object
-		Name="Object76481464"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1212.181 293.024 131.463"
-		Rot="0.000 0.415 0.000 -0.910" />
-
-	<Object
-		Name="Object76481465"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1200.679 302.704 117.298"
-		Rot="0.000 0.927 0.000 0.375" />
-
-	<Object
-		Name="Object76481466"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1202.779 288.010 143.917"
-		Rot="0.000 0.009 0.000 1.000" />
-
-	<Object
-		Name="Object76481467"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1045.349 304.653 136.787"
-		Rot="0.000 0.731 0.000 -0.682" />
-
-	<Object
-		Name="Object76481468"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1055.521 311.523 117.176"
-		Rot="0.000 0.701 0.000 0.713" />
-
-	<Object
-		Name="Object76481469"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1060.052 299.047 142.936"
-		Rot="0.000 0.701 0.000 -0.713" />
-
-	<Object
-		Name="Object76481470"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1069.514 303.087 126.787"
-		Rot="0.000 0.545 0.000 -0.839" />
-
-	<Object
-		Name="Object76481471"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1040.490 315.628 117.460"
-		Rot="0.000 0.749 0.000 -0.663" />
-
-	<Object
-		Name="Object76481472"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1062.528 332.334 83.776"
-		Rot="0.000 0.793 0.000 0.609" />
-
-	<Object
-		Name="Object76481473"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1045.460 325.802 99.952"
-		Rot="0.000 0.895 0.000 -0.446" />
-
-	<Object
-		Name="Object76481474"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1058.834 316.763 107.805"
-		Rot="0.000 0.595 0.000 0.804" />
-
-	<Object
-		Name="Object76481475"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1045.401 337.450 82.125"
-		Rot="0.000 0.725 0.000 -0.688" />
-
-	<Object
-		Name="Object76481476"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1040.010 300.149 159.872"
-		Rot="0.000 0.766 0.000 0.643" />
-
-	<Object
-		Name="Object76481477"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1028.495 305.081 149.197"
-		Rot="0.000 0.174 0.000 0.985" />
-
-	<Object
-		Name="Object76481478"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1025.931 301.950 168.713"
-		Rot="0.000 0.530 0.000 0.848" />
-
-	<Object
-		Name="Object76481479"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1010.299 305.124 164.275"
-		Rot="0.000 0.857 0.000 -0.515" />
-
-	<Object
-		Name="Object76481480"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1012.513 310.074 144.577"
-		Rot="0.000 0.469 0.000 0.883" />
-
-	<Object
-		Name="Object76481481"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1020.773 302.216 199.073"
-		Rot="0.000 0.839 0.000 0.545" />
-
-	<Object
-		Name="Object76481482"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1012.381 302.942 186.037"
-		Rot="0.000 0.595 0.000 0.804" />
-
-	<Object
-		Name="Object76481483"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1037.528 299.352 185.725"
-		Rot="0.000 0.870 0.000 -0.492" />
-
-	<Object
-		Name="Object76481484"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1037.949 299.953 204.485"
-		Rot="0.000 0.760 0.000 -0.649" />
-
-	<Object
-		Name="Object76481485"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1013.109 304.508 224.801"
-		Rot="0.000 0.961 0.000 0.276" />
-
-	<Object
-		Name="Object76481486"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1029.246 302.122 217.739"
-		Rot="0.000 0.999 0.000 0.052" />
-
-	<Object
-		Name="Object76481487"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1034.661 303.271 238.476"
-		Rot="0.000 0.545 0.000 0.839" />
-
-	<Object
-		Name="Object76481488"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1009.651 303.831 209.652"
-		Rot="0.000 0.943 0.000 0.334" />
-
-	<Object
-		Name="Object76481489"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1008.229 306.175 239.630"
-		Rot="0.000 0.216 0.000 0.976" />
-
-	<Object
-		Name="Object76481490"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1034.667 305.110 254.989"
-		Rot="0.000 0.044 0.000 -0.999" />
-
-	<Object
-		Name="Object76481491"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1017.705 306.774 252.086"
-		Rot="0.000 0.986 0.000 -0.165" />
-
-	<Object
-		Name="Object76481492"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1056.790 299.685 240.172"
-		Rot="0.000 0.804 0.000 -0.595" />
-
-	<Object
-		Name="Object76481493"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1065.588 300.088 258.723"
-		Rot="0.000 0.999 0.000 0.052" />
-
-	<Object
-		Name="Object76481494"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1040.775 302.524 240.198"
-		Rot="0.000 0.966 0.000 0.259" />
-
-	<Object
-		Name="Object76481495"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1047.447 303.012 254.291"
-		Rot="0.000 0.994 0.000 -0.113" />
-
-	<Object
-		Name="Object76481496"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1077.096 298.908 268.640"
-		Rot="0.000 0.961 0.000 0.276" />
-
-	<Object
-		Name="Object76481497"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1093.328 294.106 255.601"
-		Rot="0.000 0.017 0.000 1.000" />
-
-	<Object
-		Name="Object76481498"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1103.163 293.912 270.569"
-		Rot="0.000 0.788 0.000 -0.616" />
-
-	<Object
-		Name="Object76481499"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1079.467 296.070 248.308"
-		Rot="0.000 0.982 0.000 -0.191" />
-
-	<Object
-		Name="Object76481500"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1093.833 292.315 240.432"
-		Rot="0.000 0.276 0.000 0.961" />
-
-	<Object
-		Name="Object76481501"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1183.336 287.679 346.322"
-		Rot="0.000 0.643 0.000 -0.766" />
-
-	<Object
-		Name="Object76481502"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1183.735 288.636 367.826"
-		Rot="0.000 0.978 0.000 -0.208" />
-
-	<Object
-		Name="Object76481503"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1198.401 286.726 360.724"
-		Rot="0.000 0.292 0.000 0.956" />
-
-	<Object
-		Name="Object76481504"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1168.388 289.112 342.082"
-		Rot="0.000 0.998 0.000 0.061" />
-
-	<Object
-		Name="Object76481505"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1192.605 294.548 399.044"
-		Rot="0.000 0.669 0.000 -0.743" />
-
-	<Object
-		Name="Object76481506"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1168.168 290.798 376.364"
-		Rot="0.000 0.934 0.000 0.358" />
-
-	<Object
-		Name="Object76481507"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1186.303 289.958 380.038"
-		Rot="0.000 0.454 0.000 -0.891" />
-
-	<Object
-		Name="Object76481508"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1197.886 287.503 369.067"
-		Rot="0.000 0.182 0.000 0.983" />
-
-	<Object
-		Name="Object76481509"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1177.081 292.871 392.482"
-		Rot="0.000 0.934 0.000 0.358" />
-
-	<Object
-		Name="Object76481510"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1151.757 294.188 390.551"
-		Rot="0.000 0.970 0.000 0.242" />
-
-	<Object
-		Name="Object76481511"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1136.900 295.608 387.880"
-		Rot="0.000 0.993 0.000 0.122" />
-
-	<Object
-		Name="Object76481512"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1167.208 293.033 390.982"
-		Rot="0.000 0.701 0.000 -0.713" />
-
-	<Object
-		Name="Object76481513"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1147.786 293.034 374.725"
-		Rot="0.000 0.375 0.000 0.927" />
-
-	<Object
-		Name="Object76481514"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1117.304 298.749 394.624"
-		Rot="0.000 1.000 0.000 -0.017" />
-
-	<Object
-		Name="Object76481515"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1120.333 297.473 379.164"
-		Rot="0.000 0.358 0.000 0.934" />
-
-	<Object
-		Name="Object76481516"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1131.448 297.512 399.709"
-		Rot="0.000 0.866 0.000 -0.500" />
-
-	<Object
-		Name="Object76481517"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1107.698 299.414 369.795"
-		Rot="0.000 0.545 0.000 0.839" />
-
-	<Object
-		Name="Object76481518"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1122.599 296.284 350.193"
-		Rot="0.000 0.588 0.000 0.809" />
-
-	<Object
-		Name="Object76481519"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1106.810 298.749 339.876"
-		Rot="0.000 0.839 0.000 -0.545" />
-
-	<Object
-		Name="Object76481520"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1122.371 296.771 365.404"
-		Rot="0.000 0.469 0.000 0.883" />
-
-	<Object
-		Name="Object76481521"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1106.241 299.565 363.533"
-		Rot="0.000 0.809 0.000 0.588" />
-
-	<Object
-		Name="Object76481522"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1134.071 293.875 338.185"
-		Rot="0.000 0.983 0.000 0.182" />
-
-	<Object
-		Name="Object76481523"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1138.521 293.785 360.838"
-		Rot="0.000 0.793 0.000 0.609" />
-
-	<Object
-		Name="Object76481524"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1156.758 290.799 354.024"
-		Rot="0.000 1.000 0.000 0.026" />
-
-	<Object
-		Name="Object76481525"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1149.740 291.477 340.515"
-		Rot="0.000 0.688 0.000 0.725" />
-
-	<Object
-		Name="Object76481526"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1165.784 289.322 337.638"
-		Rot="0.000 0.292 0.000 0.956" />
-
-	<Object
-		Name="Object76481527"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1068.902 305.240 335.895"
-		Rot="0.000 0.914 0.000 0.407" />
-
-	<Object
-		Name="Object76481528"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1042.019 308.899 321.697"
-		Rot="0.000 0.970 0.000 0.242" />
-
-	<Object
-		Name="Object76481529"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1011.303 310.104 330.733"
-		Rot="0.000 0.508 0.000 -0.862" />
-
-	<Object
-		Name="Object76481530"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="977.582 307.990 319.959"
-		Rot="0.000 0.766 0.000 -0.643" />
-
-	<Object
-		Name="Object76481531"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="988.992 309.939 308.810"
-		Rot="0.000 0.250 0.000 -0.968" />
-
-	<Object
-		Name="Object76481532"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1001.721 309.653 330.707"
-		Rot="0.000 0.530 0.000 -0.848" />
-
-	<Object
-		Name="Object76481533"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1005.201 311.044 310.277"
-		Rot="0.000 0.383 0.000 -0.924" />
-
-	<Object
-		Name="Object76481534"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1025.461 310.345 316.971"
-		Rot="0.000 0.982 0.000 0.191" />
-
-	<Object
-		Name="Object76481535"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1029.225 309.744 334.184"
-		Rot="0.000 0.755 0.000 0.656" />
-
-	<Object
-		Name="Object76481536"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1039.262 307.450 358.351"
-		Rot="0.000 0.968 0.000 -0.250" />
-
-	<Object
-		Name="Object76481537"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1024.215 307.839 356.258"
-		Rot="0.000 0.044 0.000 0.999" />
-
-	<Object
-		Name="Object76481538"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1016.124 309.210 342.025"
-		Rot="0.000 0.917 0.000 -0.399" />
-
-	<Object
-		Name="Object76481539"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1008.255 307.231 356.933"
-		Rot="0.000 0.998 0.000 0.070" />
-
-	<Object
-		Name="Object76481540"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1034.782 309.229 337.455"
-		Rot="0.000 0.500 0.000 -0.866" />
-
-	<Object
-		Name="Object76481541"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1011.118 305.235 373.941"
-		Rot="0.000 0.760 0.000 -0.649" />
-
-	<Object
-		Name="Object76481542"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1039.034 305.293 382.513"
-		Rot="0.000 0.998 0.000 0.061" />
-
-	<Object
-		Name="Object76481543"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1021.486 304.503 384.908"
-		Rot="0.000 0.766 0.000 -0.643" />
-
-	<Object
-		Name="Object76481544"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1028.228 306.271 371.411"
-		Rot="0.000 0.052 0.000 -0.999" />
-
-	<Object
-		Name="Object76481545"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1012.653 302.207 399.183"
-		Rot="0.000 0.985 0.000 0.174" />
-
-	<Object
-		Name="Object76481546"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1042.975 303.960 398.729"
-		Rot="0.000 0.087 0.000 0.996" />
-
-	<Object
-		Name="Object76481547"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1054.084 305.228 379.781"
-		Rot="0.000 0.438 0.000 -0.899" />
-
-	<Object
-		Name="Object76481548"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1066.083 304.027 391.652"
-		Rot="0.000 0.078 0.000 0.997" />
-
-	<Object
-		Name="Object76481549"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1068.811 304.569 373.396"
-		Rot="0.000 0.017 0.000 1.000" />
-
-	<Object
-		Name="Object76481550"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1040.898 306.382 369.982"
-		Rot="0.000 0.937 0.000 -0.350" />
-
-	<Object
-		Name="Object76481551"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1085.266 302.687 380.589"
-		Rot="0.000 0.924 0.000 0.383" />
-
-	<Object
-		Name="Object76481552"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1103.754 300.503 394.482"
-		Rot="0.000 0.799 0.000 -0.602" />
-
-	<Object
-		Name="Object76481553"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1081.893 302.869 396.465"
-		Rot="0.000 0.853 0.000 -0.522" />
-
-	<Object
-		Name="Object76481554"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1095.704 301.292 368.588"
-		Rot="0.000 0.755 0.000 0.656" />
-
-	<Object
-		Name="Object76481555"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1092.951 301.548 353.046"
-		Rot="0.000 1.000 0.000 -0.009" />
-
-	<Object
-		Name="Object76481556"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1084.520 302.688 338.155"
-		Rot="0.000 0.669 0.000 0.743" />
-
-	<Object
-		Name="Object76481557"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1075.043 304.292 358.941"
-		Rot="0.000 0.870 0.000 -0.492" />
-
-	<Object
-		Name="Object76481558"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1102.479 299.561 340.634"
-		Rot="0.000 0.545 0.000 0.839" />
-
-	<Object
-		Name="Object76481559"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1055.745 306.550 356.663"
-		Rot="0.000 0.943 0.000 -0.334" />
-
-	<Object
-		Name="Object76481560"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1050.995 307.496 342.247"
-		Rot="0.000 0.035 0.000 -0.999" />
-
-	<Object
-		Name="Object76481561"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1067.204 305.496 341.023"
-		Rot="0.000 0.976 0.000 -0.216" />
-
-	<Object
-		Name="Object76481562"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1133.706 302.255 421.108"
-		Rot="0.000 0.139 0.000 0.990" />
-
-	<Object
-		Name="Object76481563"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1112.074 302.967 419.063"
-		Rot="0.000 0.743 0.000 -0.669" />
-
-	<Object
-		Name="Object76481564"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1095.089 302.514 409.923"
-		Rot="0.000 0.276 0.000 -0.961" />
-
-	<Object
-		Name="Object76481565"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1086.936 304.875 424.501"
-		Rot="0.000 0.930 0.000 -0.367" />
-
-	<Object
-		Name="Object76481566"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1072.477 303.778 414.883"
-		Rot="0.000 0.044 0.000 0.999" />
-
-	<Object
-		Name="Object76481567"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1072.318 305.825 431.677"
-		Rot="0.000 0.853 0.000 -0.522" />
-
-	<Object
-		Name="Object76481568"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1101.487 306.193 429.750"
-		Rot="0.000 0.829 0.000 -0.559" />
-
-	<Object
-		Name="Object76481569"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1054.614 303.594 411.553"
-		Rot="0.000 0.914 0.000 -0.407" />
-
-	<Object
-		Name="Object76481570"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1040.007 302.957 423.608"
-		Rot="0.000 0.552 0.000 0.834" />
-
-	<Object
-		Name="Object76481571"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1044.609 303.876 400.104"
-		Rot="0.000 0.469 0.000 0.883" />
-
-	<Object
-		Name="Object76481572"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1055.185 304.200 427.236"
-		Rot="0.000 0.982 0.000 -0.191" />
-
-	<Object
-		Name="Object76481573"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1065.161 303.731 400.099"
-		Rot="0.000 0.139 0.000 -0.990" />
-
-	<Object
-		Name="Object76481574"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1071.482 303.869 416.403"
-		Rot="0.000 0.233 0.000 0.972" />
-
-	<Object
-		Name="Object76481575"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1023.567 301.573 419.708"
-		Rot="0.000 0.725 0.000 -0.688" />
-
-	<Object
-		Name="Object76481576"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1028.456 303.014 403.070"
-		Rot="0.000 0.407 0.000 -0.914" />
-
-	<Object
-		Name="Object76481577"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1008.825 299.694 423.876"
-		Rot="0.000 0.737 0.000 -0.676" />
-
-	<Object
-		Name="Object76481578"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1008.229 301.159 404.894"
-		Rot="0.000 0.191 0.000 0.982" />
-
-	<Object
-		Name="Object76481579"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1033.889 302.668 430.803"
-		Rot="0.000 0.139 0.000 -0.990" />
-
-	<Object
-		Name="Object76481580"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="988.522 299.444 400.671"
-		Rot="0.000 0.999 0.000 0.052" />
-
-	<Object
-		Name="Object76481581"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="982.534 296.377 425.261"
-		Rot="0.000 0.656 0.000 0.755" />
-
-	<Object
-		Name="Object76481582"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1005.756 299.221 426.513"
-		Rot="0.000 0.879 0.000 0.477" />
-
-	<Object
-		Name="Object76481583"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="996.178 298.799 414.500"
-		Rot="0.000 0.731 0.000 0.682" />
-
-	<Object
-		Name="Object76481584"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="997.056 298.028 449.197"
-		Rot="0.000 0.902 0.000 0.431" />
-
-	<Object
-		Name="Object76481585"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="982.458 295.789 444.665"
-		Rot="0.000 0.701 0.000 0.713" />
-
-	<Object
-		Name="Object76481586"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1006.186 301.296 461.225"
-		Rot="0.000 0.407 0.000 0.914" />
-
-	<Object
-		Name="Object76481587"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="988.231 297.678 463.646"
-		Rot="0.000 0.199 0.000 -0.980" />
-
-	<Object
-		Name="Object76481588"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="961.576 293.827 432.715"
-		Rot="0.000 0.993 0.000 -0.122" />
-
-	<Object
-		Name="Object76481589"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="960.669 293.367 457.484"
-		Rot="0.000 0.980 0.000 -0.199" />
-
-	<Object
-		Name="Object76481590"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="975.907 294.949 439.101"
-		Rot="0.000 0.994 0.000 -0.113" />
-
-	<Object
-		Name="Object76481591"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="986.361 308.060 332.782"
-		Rot="0.000 0.999 0.000 0.035" />
-
-	<Object
-		Name="Object76481592"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="966.826 305.161 333.811"
-		Rot="0.000 0.267 0.000 -0.964" />
-
-	<Object
-		Name="Object76481593"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="974.764 307.758 316.800"
-		Rot="0.000 0.879 0.000 -0.477" />
-
-	<Object
-		Name="Object76481594"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="957.809 301.467 354.807"
-		Rot="0.000 0.985 0.000 0.174" />
-
-	<Object
-		Name="Object76481595"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="975.851 304.358 353.584"
-		Rot="0.000 0.122 0.000 -0.993" />
-
-	<Object
-		Name="Object76481596"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="970.327 305.193 339.064"
-		Rot="0.000 0.358 0.000 -0.934" />
-
-	<Object
-		Name="Object76481597"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="928.761 296.556 354.159"
-		Rot="0.000 0.974 0.000 0.225" />
-
-	<Object
-		Name="Object76481598"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="942.170 300.486 336.888"
-		Rot="0.000 0.848 0.000 -0.530" />
-
-	<Object
-		Name="Object76481599"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="937.388 296.682 367.701"
-		Rot="0.000 0.988 0.000 -0.156" />
-
-	<Object
-		Name="Object76481600"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="936.882 294.592 390.616"
-		Rot="0.000 0.998 0.000 0.061" />
-
-	<Object
-		Name="Object76481601"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="923.286 293.727 383.881"
-		Rot="0.000 0.959 0.000 0.284" />
-
-	<Object
-		Name="Object76481602"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="913.811 292.565 398.274"
-		Rot="0.000 0.407 0.000 0.914" />
-
-	<Object
-		Name="Object76481603"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="927.953 295.299 368.091"
-		Rot="0.000 0.829 0.000 0.559" />
-
-	<Object
-		Name="Object76481604"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="931.275 292.479 420.835"
-		Rot="0.000 0.862 0.000 -0.508" />
-
-	<Object
-		Name="Object76481605"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="915.571 292.305 420.954"
-		Rot="0.000 0.537 0.000 0.843" />
-
-	<Object
-		Name="Object76481606"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="926.684 293.092 401.282"
-		Rot="0.000 0.574 0.000 -0.819" />
-
-	<Object
-		Name="Object76481607"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="942.534 294.410 400.042"
-		Rot="0.000 0.267 0.000 -0.964" />
-
-	<Object
-		Name="Object76481608"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="898.364 292.594 420.722"
-		Rot="0.000 0.964 0.000 0.267" />
-
-	<Object
-		Name="Object76481609"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="943.241 292.619 430.853"
-		Rot="0.000 0.350 0.000 -0.937" />
-
-	<Object
-		Name="Object76481610"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="973.984 299.130 389.707"
-		Rot="0.000 0.165 0.000 -0.986" />
-
-	<Object
-		Name="Object76481611"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="962.595 299.607 374.914"
-		Rot="0.000 0.588 0.000 -0.809" />
-
-	<Object
-		Name="Object76481612"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="958.378 296.297 397.484"
-		Rot="0.000 0.309 0.000 0.951" />
-
-	<Object
-		Name="Object76481613"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="949.075 296.840 381.856"
-		Rot="0.000 0.317 0.000 0.948" />
-
-	<Object
-		Name="Object76481614"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="987.983 304.071 367.183"
-		Rot="0.000 1.000 0.000 0.017" />
-
-	<Object
-		Name="Object76481615"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="995.262 307.688 344.963"
-		Rot="0.000 0.284 0.000 -0.959" />
-
-	<Object
-		Name="Object76481616"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="994.970 302.993 380.486"
-		Rot="0.000 0.743 0.000 0.669" />
-
-	<Object
-		Name="Object76481617"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="962.908 295.375 412.015"
-		Rot="0.000 0.407 0.000 -0.914" />
-
-	<Object
-		Name="Object76481618"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="930.930 292.063 440.425"
-		Rot="0.000 0.545 0.000 -0.839" />
-
-	<Object
-		Name="Object76481619"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="919.004 292.405 454.102"
-		Rot="0.000 0.139 0.000 -0.990" />
-
-	<Object
-		Name="Object76481620"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="942.468 292.193 461.579"
-		Rot="0.000 0.052 0.000 0.999" />
-
-	<Object
-		Name="Object76481621"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="912.446 292.417 432.448"
-		Rot="0.000 0.755 0.000 -0.656" />
-
-	<Object
-		Name="Object76481622"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="892.836 294.085 450.152"
-		Rot="0.000 0.985 0.000 0.174" />
-
-	<Object
-		Name="Object76481623"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="902.813 293.621 461.665"
-		Rot="0.000 0.934 0.000 0.358" />
-
-	<Object
-		Name="Object76481624"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="894.744 293.204 432.676"
-		Rot="0.000 0.358 0.000 -0.934" />
-
-	<Object
-		Name="Object76481625"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="892.944 294.908 479.416"
-		Rot="0.000 0.899 0.000 -0.438" />
-
-	<Object
-		Name="Object76481626"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="906.443 293.416 495.640"
-		Rot="0.000 0.454 0.000 0.891" />
-
-	<Object
-		Name="Object76481627"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="883.712 295.932 495.917"
-		Rot="0.000 0.995 0.000 -0.096" />
-
-	<Object
-		Name="Object76481628"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="892.421 294.656 464.386"
-		Rot="0.000 0.616 0.000 0.788" />
-
-	<Object
-		Name="Object76481629"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="947.991 292.421 446.546"
-		Rot="0.000 0.122 0.000 -0.993" />
-
-	<Object
-		Name="Object76481630"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="993.659 304.199 190.295"
-		Rot="0.000 0.906 0.000 -0.423" />
-
-	<Object
-		Name="Object76481631"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="982.012 304.350 205.859"
-		Rot="0.000 0.052 0.000 -0.999" />
-
-	<Object
-		Name="Object76481632"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="976.255 305.081 178.757"
-		Rot="0.000 0.814 0.000 0.581" />
-
-	<Object
-		Name="Object76481633"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1005.581 304.004 176.916"
-		Rot="0.000 0.951 0.000 -0.309" />
-
-	<Object
-		Name="Object76481634"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1004.920 303.845 201.221"
-		Rot="0.000 0.552 0.000 0.834" />
-
-	<Object
-		Name="Object76481635"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="991.385 305.580 226.986"
-		Rot="0.000 0.350 0.000 0.937" />
-
-	<Object
-		Name="Object76481636"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="980.155 305.907 237.341"
-		Rot="0.000 0.824 0.000 -0.566" />
-
-	<Object
-		Name="Object76481637"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="977.082 304.774 220.739"
-		Rot="0.000 0.515 0.000 -0.857" />
-
-	<Object
-		Name="Object76481638"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1006.050 304.644 219.095"
-		Rot="0.000 0.602 0.000 -0.799" />
-
-	<Object
-		Name="Object76481639"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="955.426 302.090 216.549"
-		Rot="0.000 0.959 0.000 0.284" />
-
-	<Object
-		Name="Object76481640"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="944.602 300.949 231.662"
-		Rot="0.000 0.788 0.000 0.616" />
-
-	<Object
-		Name="Object76481641"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="958.680 303.813 239.437"
-		Rot="0.000 0.788 0.000 -0.616" />
-
-	<Object
-		Name="Object76481642"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="973.353 303.882 208.550"
-		Rot="0.000 0.096 0.000 -0.995" />
-
-	<Object
-		Name="Object76481643"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="965.192 305.449 255.225"
-		Rot="0.000 0.342 0.000 0.940" />
-
-	<Object
-		Name="Object76481644"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="935.510 300.380 255.259"
-		Rot="0.000 0.914 0.000 0.407" />
-
-	<Object
-		Name="Object76481645"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="921.252 296.959 245.050"
-		Rot="0.000 0.216 0.000 -0.976" />
-
-	<Object
-		Name="Object76481646"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="943.041 301.091 240.014"
-		Rot="0.000 0.940 0.000 -0.342" />
-
-	<Object
-		Name="Object76481647"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="915.021 296.662 271.145"
-		Rot="0.000 0.974 0.000 -0.225" />
-
-	<Object
-		Name="Object76481648"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="900.958 293.471 251.702"
-		Rot="0.000 0.250 0.000 0.968" />
-
-	<Object
-		Name="Object76481649"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="884.548 291.264 255.742"
-		Rot="0.000 0.292 0.000 -0.956" />
-
-	<Object
-		Name="Object76481650"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="891.730 292.544 269.953"
-		Rot="0.000 0.948 0.000 0.317" />
-
-	<Object
-		Name="Object76481651"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="906.582 294.956 267.424"
-		Rot="0.000 0.857 0.000 -0.515" />
-
-	<Object
-		Name="Object76481652"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="890.148 291.496 240.537"
-		Rot="0.000 0.438 0.000 0.899" />
-
-	<Object
-		Name="Object76481653"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="889.647 292.393 294.451"
-		Rot="0.000 0.834 0.000 0.552" />
-
-	<Object
-		Name="Object76481654"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="863.866 289.480 286.867"
-		Rot="0.000 0.259 0.000 -0.966" />
-
-	<Object
-		Name="Object76481655"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="875.583 290.549 301.836"
-		Rot="0.000 0.326 0.000 -0.945" />
-
-	<Object
-		Name="Object76481656"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="850.665 288.613 300.755"
-		Rot="0.000 0.309 0.000 0.951" />
-
-	<Object
-		Name="Object76481657"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="848.279 288.545 284.693"
-		Rot="0.000 0.964 0.000 -0.267" />
-
-	<Object
-		Name="Object76481658"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="825.076 288.054 282.666"
-		Rot="0.000 0.537 0.000 0.843" />
-
-	<Object
-		Name="Object76481659"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="830.544 287.964 303.090"
-		Rot="0.000 0.096 0.000 -0.995" />
-
-	<Object
-		Name="Object76481660"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="846.631 288.450 296.225"
-		Rot="0.000 0.656 0.000 -0.755" />
-
-	<Object
-		Name="Object76481661"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="847.719 288.539 277.210"
-		Rot="0.000 0.182 0.000 0.983" />
-
-	<Object
-		Name="Object76481662"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="844.947 288.270 317.037"
-		Rot="0.000 0.026 0.000 -1.000" />
-
-	<Object
-		Name="Object76481663"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="845.435 288.353 333.211"
-		Rot="0.000 0.017 0.000 1.000" />
-
-	<Object
-		Name="Object76481664"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="830.919 287.890 322.960"
-		Rot="0.000 0.914 0.000 -0.407" />
-
-	<Object
-		Name="Object76481665"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="820.509 287.839 334.731"
-		Rot="0.000 0.250 0.000 -0.968" />
-
-	<Object
-		Name="Object76481666"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="818.616 287.797 313.416"
-		Rot="0.000 0.061 0.000 -0.998" />
-
-	<Object
-		Name="Object76481667"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="834.190 288.026 304.460"
-		Rot="0.000 0.309 0.000 0.951" />
-
-	<Object
-		Name="Object76481668"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="816.930 287.916 296.447"
-		Rot="0.000 0.920 0.000 0.391" />
-
-	<Object
-		Name="Object76481669"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="872.143 290.158 273.333"
-		Rot="0.000 0.737 0.000 -0.676" />
-
-	<Object
-		Name="Object76481670"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="861.289 289.007 246.157"
-		Rot="0.000 0.609 0.000 0.793" />
-
-	<Object
-		Name="Object76481671"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="879.731 290.653 254.421"
-		Rot="0.000 0.961 0.000 0.276" />
-
-	<Object
-		Name="Object76481672"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="850.522 288.632 261.976"
-		Rot="0.000 0.276 0.000 -0.961" />
-
-	<Object
-		Name="Object76481673"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="904.494 293.403 229.148"
-		Rot="0.000 0.462 0.000 0.887" />
-
-	<Object
-		Name="Object76481674"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="899.798 292.766 209.846"
-		Rot="0.000 0.814 0.000 0.581" />
-
-	<Object
-		Name="Object76481675"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="889.179 291.165 223.035"
-		Rot="0.000 0.208 0.000 0.978" />
-
-	<Object
-		Name="Object76481676"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="927.098 297.543 229.649"
-		Rot="0.000 0.216 0.000 -0.976" />
-
-	<Object
-		Name="Object76481677"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="941.571 299.829 214.421"
-		Rot="0.000 0.978 0.000 0.208" />
-
-	<Object
-		Name="Object76481678"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="925.401 296.946 213.175"
-		Rot="0.000 0.999 0.000 -0.044" />
-
-	<Object
-		Name="Object76481679"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="951.720 302.431 186.774"
-		Rot="0.000 0.948 0.000 0.317" />
-
-	<Object
-		Name="Object76481680"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="961.799 302.770 198.349"
-		Rot="0.000 0.902 0.000 0.431" />
-
-	<Object
-		Name="Object76481681"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="975.337 304.851 180.630"
-		Rot="0.000 0.891 0.000 0.454" />
-
-	<Object
-		Name="Object76481682"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="994.963 306.823 164.504"
-		Rot="0.000 0.998 0.000 0.061" />
-
-	<Object
-		Name="Object76481683"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="979.356 308.640 160.657"
-		Rot="0.000 0.940 0.000 0.342" />
-
-	<Object
-		Name="Object76481684"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1004.934 308.724 152.325"
-		Rot="0.000 0.334 0.000 0.943" />
-
-	<Object
-		Name="Object76481685"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="992.180 314.037 144.086"
-		Rot="0.000 0.731 0.000 -0.682" />
-
-	<Object
-		Name="Object76481686"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="961.102 310.126 157.507"
-		Rot="0.000 0.676 0.000 -0.737" />
-
-	<Object
-		Name="Object76481687"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="945.232 311.335 153.757"
-		Rot="0.000 0.998 0.000 -0.070" />
-
-	<Object
-		Name="Object76481688"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="957.697 304.913 174.632"
-		Rot="0.000 0.309 0.000 -0.951" />
-
-	<Object
-		Name="Object76481689"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="973.150 315.021 146.338"
-		Rot="0.000 0.156 0.000 -0.988" />
-
-	<Object
-		Name="Object76481690"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="974.142 306.458 170.243"
-		Rot="0.000 0.035 0.000 0.999" />
-
-	<Object
-		Name="Object76481691"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="933.189 304.164 168.099"
-		Rot="0.000 0.760 0.000 -0.649" />
-
-	<Object
-		Name="Object76481692"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="915.973 312.179 147.954"
-		Rot="0.000 0.530 0.000 -0.848" />
-
-	<Object
-		Name="Object76481693"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="936.796 311.948 151.413"
-		Rot="0.000 0.342 0.000 0.940" />
-
-	<Object
-		Name="Object76481694"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="914.057 301.309 169.257"
-		Rot="0.000 0.917 0.000 -0.399" />
-
-	<Object
-		Name="Object76481695"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="937.103 299.551 195.583"
-		Rot="0.000 1.000 0.000 -0.017" />
-
-	<Object
-		Name="Object76481696"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="917.124 297.561 185.456"
-		Rot="0.000 0.552 0.000 -0.834" />
-
-	<Object
-		Name="Object76481697"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="912.915 295.097 201.811"
-		Rot="0.000 0.156 0.000 0.988" />
-
-	<Object
-		Name="Object76481698"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="888.955 292.179 197.351"
-		Rot="0.000 0.588 0.000 0.809" />
-
-	<Object
-		Name="Object76481699"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="882.171 294.182 181.196"
-		Rot="0.000 0.959 0.000 0.284" />
-
-	<Object
-		Name="Object76481700"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="897.631 296.199 179.260"
-		Rot="0.000 0.334 0.000 -0.943" />
-
-	<Object
-		Name="Object76481701"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="867.646 289.164 231.981"
-		Rot="0.000 0.906 0.000 0.423" />
-
-	<Object
-		Name="Object76481702"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="853.814 289.208 208.359"
-		Rot="0.000 0.087 0.000 0.996" />
-
-	<Object
-		Name="Object76481703"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="874.445 289.817 216.389"
-		Rot="0.000 0.937 0.000 -0.350" />
-
-	<Object
-		Name="Object76481704"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="829.141 288.692 225.429"
-		Rot="0.000 0.866 0.000 0.500" />
-
-	<Object
-		Name="Object76481705"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="845.913 288.429 235.822"
-		Rot="0.000 0.857 0.000 0.515" />
-
-	<Object
-		Name="Object76481706"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="842.705 288.751 216.758"
-		Rot="0.000 0.334 0.000 -0.943" />
-
-	<Object
-		Name="Object76481707"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="816.979 289.872 215.080"
-		Rot="0.000 0.052 0.000 -0.999" />
-
-	<Object
-		Name="Object76481708"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="823.357 288.295 260.295"
-		Rot="0.000 0.799 0.000 -0.602" />
-
-	<Object
-		Name="Object76481709"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="819.889 288.656 241.195"
-		Rot="0.000 0.994 0.000 -0.105" />
-
-	<Object
-		Name="Object76481710"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="837.594 288.322 250.850"
-		Rot="0.000 0.829 0.000 -0.559" />
-
-	<Object
-		Name="Object76481711"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="838.602 288.278 271.729"
-		Rot="0.000 0.760 0.000 -0.649" />
-
-	<Object
-		Name="Object76481712"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="805.191 288.979 261.591"
-		Rot="0.000 0.906 0.000 -0.423" />
-
-	<Object
-		Name="Object76481713"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="789.174 290.856 259.140"
-		Rot="0.000 0.061 0.000 -0.998" />
-
-	<Object
-		Name="Object76481714"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="797.351 290.791 245.405"
-		Rot="0.000 0.994 0.000 0.113" />
-
-	<Object
-		Name="Object76481715"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="795.067 288.179 299.430"
-		Rot="0.000 0.383 0.000 0.924" />
-
-	<Object
-		Name="Object76481716"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="787.076 289.297 280.281"
-		Rot="0.000 0.994 0.000 0.113" />
-
-	<Object
-		Name="Object76481717"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="810.749 288.238 278.094"
-		Rot="0.000 0.959 0.000 0.284" />
-
-	<Object
-		Name="Object76481718"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="864.261 289.275 323.560"
-		Rot="0.000 0.799 0.000 0.602" />
-
-	<Object
-		Name="Object76481719"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="878.373 290.709 317.069"
-		Rot="0.000 0.824 0.000 -0.566" />
-
-	<Object
-		Name="Object76481720"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="865.649 289.549 308.165"
-		Rot="0.000 0.777 0.000 -0.629" />
-
-	<Object
-		Name="Object76481721"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="861.721 290.086 367.693"
-		Rot="0.000 0.537 0.000 0.843" />
-
-	<Object
-		Name="Object76481722"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="853.762 288.952 344.334"
-		Rot="0.000 0.964 0.000 0.267" />
-
-	<Object
-		Name="Object76481723"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="867.400 289.600 337.261"
-		Rot="0.000 0.998 0.000 -0.061" />
-
-	<Object
-		Name="Object76481724"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="825.507 288.607 356.913"
-		Rot="0.000 0.367 0.000 0.930" />
-
-	<Object
-		Name="Object76481725"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="836.297 288.243 340.589"
-		Rot="0.000 0.793 0.000 0.609" />
-
-	<Object
-		Name="Object76481726"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="840.224 289.354 364.928"
-		Rot="0.000 0.783 0.000 -0.623" />
-
-	<Object
-		Name="Object76481727"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="818.307 287.918 340.061"
-		Rot="0.000 0.087 0.000 0.996" />
-
-	<Object
-		Name="Object76481728"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="842.039 292.120 397.015"
-		Rot="0.000 0.105 0.000 -0.994" />
-
-	<Object
-		Name="Object76481729"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="822.901 290.176 379.361"
-		Rot="0.000 0.755 0.000 0.656" />
-
-	<Object
-		Name="Object76481730"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="839.320 290.577 381.564"
-		Rot="0.000 0.061 0.000 -0.998" />
-
-	<Object
-		Name="Object76481731"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="816.778 291.647 393.631"
-		Rot="0.000 0.242 0.000 -0.970" />
-
-	<Object
-		Name="Object76481732"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="821.503 296.119 426.760"
-		Rot="0.000 0.462 0.000 0.887" />
-
-	<Object
-		Name="Object76481733"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="829.712 293.466 407.580"
-		Rot="0.000 0.423 0.000 -0.906" />
-
-	<Object
-		Name="Object76481734"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="802.660 292.815 404.546"
-		Rot="0.000 0.959 0.000 -0.284" />
-
-	<Object
-		Name="Object76481735"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="805.492 295.677 424.120"
-		Rot="0.000 0.853 0.000 0.522" />
-
-	<Object
-		Name="Object76481736"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="787.966 295.316 425.727"
-		Rot="0.000 0.824 0.000 0.566" />
-
-	<Object
-		Name="Object76481737"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="785.099 292.445 406.436"
-		Rot="0.000 0.515 0.000 -0.857" />
-
-	<Object
-		Name="Object76481738"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="791.861 299.745 457.931"
-		Rot="0.000 0.991 0.000 -0.131" />
-
-	<Object
-		Name="Object76481739"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="811.589 298.130 441.273"
-		Rot="0.000 0.462 0.000 0.887" />
-
-	<Object
-		Name="Object76481740"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="794.748 297.686 440.425"
-		Rot="0.000 0.663 0.000 0.749" />
-
-	<Object
-		Name="Object76481741"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="753.186 294.896 443.479"
-		Rot="0.000 0.139 0.000 0.990" />
-
-	<Object
-		Name="Object76481742"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="772.581 297.454 449.145"
-		Rot="0.000 0.026 0.000 1.000" />
-
-	<Object
-		Name="Object76481743"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="770.943 295.156 432.290"
-		Rot="0.000 0.530 0.000 -0.848" />
-
-	<Object
-		Name="Object76481744"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="796.441 289.552 378.320"
-		Rot="0.000 0.937 0.000 0.350" />
-
-	<Object
-		Name="Object76481745"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="809.341 289.058 369.048"
-		Rot="0.000 0.391 0.000 -0.920" />
-
-	<Object
-		Name="Object76481746"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="785.215 290.459 390.636"
-		Rot="0.000 0.383 0.000 0.924" />
-
-	<Object
-		Name="Object76481747"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="809.900 290.972 388.900"
-		Rot="0.000 0.879 0.000 -0.477" />
-
-	<Object
-		Name="Object76481748"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="794.856 287.919 347.404"
-		Rot="0.000 0.105 0.000 0.994" />
-
-	<Object
-		Name="Object76481749"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="789.574 288.439 364.616"
-		Rot="0.000 0.731 0.000 0.682" />
-
-	<Object
-		Name="Object76481750"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="802.755 287.757 332.653"
-		Rot="0.000 0.914 0.000 0.407" />
-
-	<Object
-		Name="Object76481751"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="788.359 287.893 326.708"
-		Rot="0.000 0.829 0.000 0.559" />
-
-	<Object
-		Name="Object76481752"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="801.464 287.842 313.496"
-		Rot="0.000 0.999 0.000 -0.035" />
-
-	<Object
-		Name="Object76481753"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="784.021 288.276 309.630"
-		Rot="0.000 0.895 0.000 -0.446" />
-
-	<Object
-		Name="Object76481754"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="752.484 290.350 319.671"
-		Rot="0.000 0.843 0.000 0.537" />
-
-	<Object
-		Name="Object76481755"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="765.578 289.788 306.449"
-		Rot="0.000 1.000 0.000 0.017" />
-
-	<Object
-		Name="Object76481756"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="769.789 288.634 322.374"
-		Rot="0.000 0.760 0.000 -0.649" />
-
-	<Object
-		Name="Object76481757"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="756.536 288.913 335.711"
-		Rot="0.000 0.407 0.000 -0.914" />
-
-	<Object
-		Name="Object76481758"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="782.054 287.952 331.178"
-		Rot="0.000 0.783 0.000 -0.623" />
-
-	<Object
-		Name="Object76481759"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="754.305 288.177 357.977"
-		Rot="0.000 0.943 0.000 0.334" />
-
-	<Object
-		Name="Object76481760"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="778.344 288.014 354.179"
-		Rot="0.000 0.713 0.000 -0.701" />
-
-	<Object
-		Name="Object76481761"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="766.369 288.502 374.689"
-		Rot="0.000 0.688 0.000 0.725" />
-
-	<Object
-		Name="Object76481762"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="769.849 290.510 397.267"
-		Rot="0.000 0.225 0.000 -0.974" />
-
-	<Object
-		Name="Object76481763"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="753.668 289.491 395.905"
-		Rot="0.000 0.423 0.000 -0.906" />
-
-	<Object
-		Name="Object76481764"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="782.281 289.828 385.718"
-		Rot="0.000 0.595 0.000 0.804" />
-
-	<Object
-		Name="Object76481765"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="909.970 293.253 478.894"
-		Rot="0.000 0.783 0.000 0.623" />
-
-	<Object
-		Name="Object76481766"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="866.001 298.143 491.626"
-		Rot="0.000 0.956 0.000 0.292" />
-
-	<Object
-		Name="Object76481767"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="868.307 297.513 472.780"
-		Rot="0.000 0.415 0.000 0.910" />
-
-	<Object
-		Name="Object76481768"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="850.800 299.866 489.269"
-		Rot="0.000 0.887 0.000 0.462" />
-
-	<Object
-		Name="Object76481769"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="839.693 300.788 513.412"
-		Rot="0.000 0.954 0.000 0.301" />
-
-	<Object
-		Name="Object76481770"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="819.711 302.219 514.538"
-		Rot="0.000 0.574 0.000 -0.819" />
-
-	<Object
-		Name="Object76481771"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="827.294 300.668 534.052"
-		Rot="0.000 0.956 0.000 0.292" />
-
-	<Object
-		Name="Object76481772"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="842.366 299.350 533.855"
-		Rot="0.000 0.242 0.000 0.970" />
-
-	<Object
-		Name="Object76481773"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="841.275 296.842 553.298"
-		Rot="0.000 0.998 0.000 -0.061" />
-
-	<Object
-		Name="Object76481774"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="822.110 297.868 556.148"
-		Rot="0.000 0.991 0.000 0.131" />
-
-	<Object
-		Name="Object76481775"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="866.922 294.152 549.236"
-		Rot="0.000 0.009 0.000 -1.000" />
-
-	<Object
-		Name="Object76481776"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="860.511 297.146 532.786"
-		Rot="0.000 0.301 0.000 0.954" />
-
-	<Object
-		Name="Object76481777"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="877.534 295.077 528.860"
-		Rot="0.000 0.500 0.000 -0.866" />
-
-	<Object
-		Name="Object76481778"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="848.649 297.291 544.898"
-		Rot="0.000 0.964 0.000 0.267" />
-
-	<Object
-		Name="Object76481779"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="879.415 291.098 558.583"
-		Rot="0.000 0.508 0.000 0.862" />
-
-	<Object
-		Name="Object76481780"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="909.353 288.915 551.037"
-		Rot="0.000 0.951 0.000 0.309" />
-
-	<Object
-		Name="Object76481781"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="902.505 291.604 530.712"
-		Rot="0.000 0.044 0.000 0.999" />
-
-	<Object
-		Name="Object76481782"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="883.567 294.163 529.288"
-		Rot="0.000 0.906 0.000 0.423" />
-
-	<Object
-		Name="Object76481783"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="895.219 290.962 544.077"
-		Rot="0.000 0.887 0.000 0.462" />
-
-	<Object
-		Name="Object76481784"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="893.847 289.331 559.859"
-		Rot="0.000 0.131 0.000 -0.991" />
-
-	<Object
-		Name="Object76481785"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="895.048 294.159 508.073"
-		Rot="0.000 0.078 0.000 -0.997" />
-
-	<Object
-		Name="Object76481786"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="911.490 292.130 513.966"
-		Rot="0.000 0.906 0.000 -0.423" />
-
-	<Object
-		Name="Object76481787"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="882.221 296.075 497.458"
-		Rot="0.000 0.035 0.000 -0.999" />
-
-	<Object
-		Name="Object76481788"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="911.135 292.902 498.405"
-		Rot="0.000 0.522 0.000 -0.853" />
-
-	<Object
-		Name="Object76481789"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="934.303 291.163 527.912"
-		Rot="0.000 0.682 0.000 -0.731" />
-
-	<Object
-		Name="Object76481790"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="934.414 292.012 499.557"
-		Rot="0.000 0.993 0.000 -0.122" />
-
-	<Object
-		Name="Object76481791"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="941.538 292.870 512.851"
-		Rot="0.000 0.799 0.000 0.602" />
-
-	<Object
-		Name="Object76481792"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="924.937 291.267 514.295"
-		Rot="0.000 0.530 0.000 -0.848" />
-
-	<Object
-		Name="Object76481793"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="934.350 292.112 482.637"
-		Rot="0.000 0.233 0.000 0.972" />
-
-	<Object
-		Name="Object76481794"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="921.794 292.389 468.915"
-		Rot="0.000 0.993 0.000 0.122" />
-
-	<Object
-		Name="Object76481795"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="939.543 292.087 467.647"
-		Rot="0.000 0.891 0.000 0.454" />
-
-	<Object
-		Name="Object76481796"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="953.116 293.791 490.698"
-		Rot="0.000 0.688 0.000 -0.725" />
-
-	<Object
-		Name="Object76481797"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="974.872 297.566 482.519"
-		Rot="0.000 0.469 0.000 0.883" />
-
-	<Object
-		Name="Object76481798"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="966.161 294.173 464.765"
-		Rot="0.000 0.990 0.000 -0.139" />
-
-	<Object
-		Name="Object76481799"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="954.128 293.166 474.100"
-		Rot="0.000 0.887 0.000 -0.462" />
-
-	<Object
-		Name="Object76481800"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="881.007 295.688 513.631"
-		Rot="0.000 0.350 0.000 0.937" />
-
-	<Object
-		Name="Object76481801"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="861.443 298.106 517.679"
-		Rot="0.000 0.552 0.000 0.834" />
-
-	<Object
-		Name="Object76481802"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1034.942 304.544 447.037"
-		Rot="0.000 0.375 0.000 -0.927" />
-
-	<Object
-		Name="Object76481803"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1014.891 300.741 442.052"
-		Rot="0.000 0.407 0.000 0.914" />
-
-	<Object
-		Name="Object76481804"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1037.192 308.765 462.399"
-		Rot="0.000 0.834 0.000 0.552" />
-
-	<Object
-		Name="Object76481805"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1021.600 305.350 463.128"
-		Rot="0.000 0.508 0.000 -0.862" />
-
-	<Object
-		Name="Object76481806"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1037.544 303.119 432.246"
-		Rot="0.000 0.891 0.000 -0.454" />
-
-	<Object
-		Name="Object76481807"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1158.040 298.280 410.779"
-		Rot="0.000 0.454 0.000 0.891" />
-
-	<Object
-		Name="Object76481808"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1149.447 304.764 427.057"
-		Rot="0.000 0.407 0.000 -0.914" />
-
-	<Object
-		Name="Object76481809"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1166.741 306.061 426.962"
-		Rot="0.000 0.676 0.000 -0.737" />
-
-	<Object
-		Name="Object76481810"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1044.112 300.244 222.963"
-		Rot="0.000 0.799 0.000 -0.602" />
-
-	<Object
-		Name="Object76481811"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1062.352 296.968 223.878"
-		Rot="0.000 0.623 0.000 0.783" />
-
-	<Object
-		Name="Object76481812"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="984.445 307.467 254.338"
-		Rot="0.000 0.250 0.000 -0.968" />
-
-	<Object
-		Name="Object76481813"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="995.297 306.749 241.592"
-		Rot="0.000 1.000 0.000 0.026" />
-
-	<Object
-		Name="Object76481814"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="952.247 303.529 322.219"
-		Rot="0.000 0.250 0.000 -0.968" />
-
-	<Object
-		Name="Object76481815"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1346.626 286.457 440.993" />
-
-	<Object
-		Name="Object76481816"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1345.853 289.215 461.996"
-		Rot="0.000 0.819 0.000 -0.574" />
-
-	<Object
-		Name="Object76481817"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1359.664 287.574 451.245"
-		Rot="0.000 0.917 0.000 0.399" />
-
-	<Object
-		Name="Object76481818"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1330.382 286.563 441.072"
-		Rot="0.000 0.122 0.000 -0.993" />
-
-	<Object
-		Name="Object76481819"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1329.757 290.085 462.821"
-		Rot="0.000 0.216 0.000 0.976" />
-
-	<Object
-		Name="Object76481820"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1273.547 294.259 427.714"
-		Rot="0.000 0.462 0.000 -0.887" />
-
-	<Object
-		Name="Object76481821"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1294.205 285.791 421.431"
-		Rot="0.000 0.883 0.000 0.469" />
-
-	<Object
-		Name="Object76481822"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1268.030 284.988 400.879"
-		Rot="0.000 0.974 0.000 0.225" />
-
-	<Object
-		Name="Object76481823"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1288.081 282.932 407.679"
-		Rot="0.000 0.986 0.000 0.165" />
-
-	<Object
-		Name="Object76481824"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1315.214 281.106 411.529"
-		Rot="0.000 0.182 0.000 -0.983" />
-
-	<Object
-		Name="Object76481825"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1323.762 284.187 427.372"
-		Rot="0.000 0.701 0.000 -0.713" />
-
-	<Object
-		Name="Object76481826"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1307.775 286.291 431.768"
-		Rot="0.000 0.113 0.000 -0.994" />
-
-	<Object
-		Name="Object76481827"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1304.267 279.432 400.110"
-		Rot="0.000 0.407 0.000 -0.914" />
-
-	<Object
-		Name="Object76481828"
-		Belong="-1"
-		Prototype="Breakable_Dub3"
-		Pos="1281.894 298.317 453.686"
-		Rot="0.000 0.993 0.000 -0.122" />
-
-	<Object
-		Name="Object76481829"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe1"
-		Pos="1291.222 290.938 437.652"
-		Rot="0.000 0.883 0.000 0.469" />
-
-	<Object
-		Name="Object76481830"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1294.585 294.613 463.225"
-		Rot="0.000 0.777 0.000 -0.629" />
-
-	<Object
-		Name="Object76481831"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe2"
-		Pos="1265.994 314.094 461.526"
-		Rot="0.000 0.713 0.000 0.701" />
-
-	<Object
-		Name="Object76481832"
-		Belong="-1"
-		Prototype="Breakable_Listvenoe3"
-		Pos="1270.570 301.738 441.001"
-		Rot="0.000 0.165 0.000 0.986" />
 
 	<Object
 		Name="Breakable_WoodFence24444"
@@ -41320,8 +37990,7 @@
 		Name="dalina_man4"
 		Belong="1001"
 		Prototype="Human2"
-		Pos="3687.835 346.764 1577.015"
-		PathsNames="dalina_man4" />
+		Pos="3687.835 346.764 1577.015" />
 
 	<Object
 		Name="Ruins_man1"
@@ -41597,7 +38266,7 @@
 			Name="Ruin_defend"
 			Belong="1008"
 			Prototype="genericLocation"
-			Pos="1328.417 293.063 268.908"
+			Pos="1130.063 292.514 306.335"
 			Rot="0.000 -0.734 0.000 0.679"
 			Radius="50.000"
 			Active="0" />
@@ -41689,25 +38358,25 @@
 			Name="Ruin_deploy"
 			Belong="1008"
 			Prototype="genericLocation"
-			Pos="1378.263 292.326 272.831"
+			Pos="1258.954 288.510 265.946"
 			Rot="0.000 -0.734 0.000 0.679"
-			Radius="50.000" />
+			Radius="35.000" />
 
 		<Object
 			Name="Ruin_enter"
 			Belong="1008"
 			Prototype="genericLocation"
-			Pos="1355.130 293.227 269.738"
+			Pos="1378.168 291.601 277.248"
 			Rot="0.000 -0.734 0.000 0.679"
-			Radius="50.000" />
+			Radius="35.000" />
 
 		<Object
 			Name="Ruin_caravan"
 			Belong="1008"
 			Prototype="genericLocation"
-			Pos="1308.479 292.516 267.339"
+			Pos="1260.331 288.728 264.631"
 			Rot="0.000 -0.734 0.000 0.679"
-			Radius="50.000" />
+			Radius="35.000" />
 
 		<Parts>
 			<AttackTeam
@@ -46020,4 +42689,914 @@
 	<Object
 		Belong="1100"
 		Prototype="someRecollection" />
+
+	<Object
+		Name="Object76483995"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="1052.355 303.653 419.678"
+		Rot="0.000 0.857 0.000 0.515" />
+
+	<Object
+		Name="Object76483996"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="1023.440 309.407 340.384"
+		Rot="0.000 0.415 0.000 0.910" />
+
+	<Object
+		Name="Object76483997"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="999.517 307.094 353.004"
+		Rot="0.000 0.044 0.000 0.999" />
+
+	<Object
+		Name="Object76483999"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="1035.883 303.632 399.925"
+		Rot="0.000 1.000 0.000 0.009" />
+
+	<Object
+		Name="Object76484000"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="1025.638 304.363 388.240"
+		Rot="0.000 0.676 0.000 0.737" />
+
+	<Object
+		Name="Object76484001"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="1037.924 304.739 388.634"
+		Rot="0.000 0.930 0.000 0.367" />
+
+	<Object
+		Name="Object76484002"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="1027.910 306.375 370.383"
+		Rot="0.000 0.964 0.000 0.267" />
+
+	<Object
+		Name="Object76484004"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="990.405 303.493 373.350"
+		Rot="0.000 0.906 0.000 0.423" />
+
+	<Object
+		Name="Object76484005"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="980.734 302.637 371.453"
+		Rot="0.000 0.793 0.000 0.609" />
+
+	<Object
+		Name="Object76484006"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="1004.125 301.789 396.231"
+		Rot="0.000 0.182 0.000 0.983" />
+
+	<Object
+		Name="Object76484007"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="990.640 300.782 392.743"
+		Rot="0.000 0.903 0.000 0.431" />
+
+	<Object
+		Name="Object76484008"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="983.581 299.434 396.314"
+		Rot="0.000 0.824 0.000 0.566" />
+
+	<Object
+		Name="Object76484009"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="984.330 296.405 428.611"
+		Rot="0.000 0.566 0.000 -0.824" />
+
+	<Object
+		Name="Object76484010"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="989.917 297.486 421.342"
+		Rot="0.000 0.225 0.000 0.974" />
+
+	<Object
+		Name="Object76484012"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="977.200 296.132 420.152"
+		Rot="0.000 0.719 0.000 -0.695" />
+
+	<Object
+		Name="Object76484014"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="1023.183 302.315 406.761"
+		Rot="0.000 0.930 0.000 0.367" />
+
+	<Object
+		Name="Object76484016"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="1035.390 302.790 429.407"
+		Rot="0.000 0.940 0.000 -0.342" />
+
+	<Object
+		Name="Object76484017"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="1008.889 299.574 428.930"
+		Rot="0.000 0.276 0.000 -0.961" />
+
+	<Object
+		Name="Object76484018"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="1038.557 303.673 436.520"
+		Rot="0.000 0.061 0.000 0.998" />
+
+	<Object
+		Name="Object76484019"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="1039.350 307.715 457.568"
+		Rot="0.000 0.994 0.000 0.113" />
+
+	<Object
+		Name="Object76484020"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="1021.729 303.632 455.371"
+		Rot="0.000 0.755 0.000 0.656" />
+
+	<Object
+		Name="Object76484021"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="1022.227 301.834 441.242"
+		Rot="0.000 0.986 0.000 0.165" />
+
+	<Object
+		Name="Object76484022"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="986.377 296.298 443.218"
+		Rot="0.000 0.174 0.000 -0.985" />
+
+	<Object
+		Name="Object76484023"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="978.217 295.224 442.391"
+		Rot="0.000 0.415 0.000 -0.910" />
+
+	<Object
+		Name="Object76484024"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="990.447 297.704 459.940"
+		Rot="0.000 0.545 0.000 0.839" />
+
+	<Object
+		Name="Object76484026"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="1001.508 309.843 492.315"
+		Rot="0.000 0.883 0.000 -0.469" />
+
+	<Object
+		Name="Object76484027"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="998.519 300.645 468.230"
+		Rot="0.000 0.824 0.000 -0.566" />
+
+	<Object
+		Name="Object76484029"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="980.853 300.459 488.535"
+		Rot="0.000 0.643 0.000 0.766" />
+
+	<Object
+		Name="Object76484030"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="1016.957 309.629 479.697"
+		Rot="0.000 0.966 0.000 0.259" />
+
+	<Object
+		Name="Object76484031"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="1022.664 308.615 472.609"
+		Rot="0.000 0.165 0.000 0.986" />
+
+	<Object
+		Name="Object76484032"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="1035.568 314.939 478.036"
+		Rot="0.000 0.602 0.000 -0.799" />
+
+	<Object
+		Name="Object76484033"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="1008.571 314.766 495.424"
+		Rot="0.000 0.602 0.000 -0.799" />
+
+	<Object
+		Name="Object76484035"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="1050.735 310.993 460.651"
+		Rot="0.000 0.707 0.000 0.707" />
+
+	<Object
+		Name="Object76484036"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="1067.997 305.842 433.183"
+		Rot="0.000 0.515 0.000 -0.857" />
+
+	<Object
+		Name="Object76484037"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="1065.660 306.980 440.206"
+		Rot="0.000 0.927 0.000 -0.375" />
+
+	<Object
+		Name="Object76484038"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="971.814 299.905 382.129"
+		Rot="0.000 0.469 0.000 -0.883" />
+
+	<Object
+		Name="Object76484039"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="952.122 296.277 390.804"
+		Rot="0.000 0.976 0.000 0.216" />
+
+	<Object
+		Name="Object76484040"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="947.302 294.891 399.699"
+		Rot="0.000 0.879 0.000 -0.477" />
+
+	<Object
+		Name="Object76484042"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="916.541 292.416 445.255"
+		Rot="0.000 0.113 0.000 0.994" />
+
+	<Object
+		Name="Object76484043"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="930.064 292.134 488.238"
+		Rot="0.000 0.783 0.000 -0.623" />
+
+	<Object
+		Name="Object76484044"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="919.393 292.536 486.364"
+		Rot="0.000 0.477 0.000 -0.879" />
+
+	<Object
+		Name="Object76484046"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="894.322 292.260 407.168"
+		Rot="0.000 0.870 0.000 -0.492" />
+
+	<Object
+		Name="Object76484047"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="1102.517 300.365 380.207"
+		Rot="0.000 0.954 0.000 0.301" />
+
+	<Object
+		Name="Object76484048"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="1072.962 303.596 392.054"
+		Rot="0.000 0.477 0.000 -0.879" />
+
+	<Object
+		Name="Object76484049"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="1041.604 307.695 354.228"
+		Rot="0.000 0.616 0.000 0.788" />
+
+	<Object
+		Name="Object76484050"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="1148.197 294.390 388.930"
+		Rot="0.000 0.035 0.000 -0.999" />
+
+	<Object
+		Name="Object76484051"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="1167.544 294.939 399.432"
+		Rot="0.000 0.983 0.000 0.182" />
+
+	<Object
+		Name="Object76484052"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="1178.755 287.982 339.712"
+		Rot="0.000 0.044 0.000 -0.999" />
+
+	<Object
+		Name="Object76484053"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="1111.148 302.243 415.664"
+		Rot="0.000 0.182 0.000 0.983" />
+
+	<Object
+		Name="Object76484054"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="1134.619 297.492 401.675"
+		Rot="0.000 0.983 0.000 -0.182" />
+
+	<Object
+		Name="Object76484055"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="1177.278 290.481 379.463"
+		Rot="0.000 1.000 0.000 -0.017" />
+
+	<Object
+		Name="Object76484056"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="937.088 300.752 256.086"
+		Rot="0.000 0.462 0.000 -0.887" />
+
+	<Object
+		Name="Object76484057"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="940.123 300.586 241.182"
+		Rot="0.000 0.951 0.000 -0.309" />
+
+	<Object
+		Name="Object76484058"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="916.579 296.521 257.399"
+		Rot="0.000 0.078 0.000 0.997" />
+
+	<Object
+		Name="Object76484059"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="937.444 301.247 269.882"
+		Rot="0.000 0.588 0.000 -0.809" />
+
+	<Object
+		Name="Object76484060"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="919.124 296.516 244.566"
+		Rot="0.000 0.972 0.000 0.233" />
+
+	<Object
+		Name="Object76484061"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="949.817 302.060 188.108"
+		Rot="0.000 0.983 0.000 0.182" />
+
+	<Object
+		Name="Object76484062"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="955.197 301.916 201.576"
+		Rot="0.000 0.044 0.000 -0.999" />
+
+	<Object
+		Name="Object76484063"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="971.333 303.693 195.525"
+		Rot="0.000 0.930 0.000 -0.367" />
+
+	<Object
+		Name="Object76484064"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="963.357 303.563 187.189"
+		Rot="0.000 0.948 0.000 -0.317" />
+
+	<Object
+		Name="Object76484065"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="923.570 297.114 236.835"
+		Rot="0.000 0.623 0.000 -0.783" />
+
+	<Object
+		Name="Object76484066"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="928.535 297.854 230.826"
+		Rot="0.000 0.052 0.000 0.999" />
+
+	<Object
+		Name="Object76484067"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="917.105 295.597 227.437"
+		Rot="0.000 0.250 0.000 -0.968" />
+
+	<Object
+		Name="Object76484068"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="936.179 298.959 204.575"
+		Rot="0.000 0.454 0.000 0.891" />
+
+	<Object
+		Name="Object76484069"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="923.586 296.865 202.533"
+		Rot="0.000 0.970 0.000 0.242" />
+
+	<Object
+		Name="Object76484070"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="940.237 300.372 191.210"
+		Rot="0.000 0.954 0.000 0.301" />
+
+	<Object
+		Name="Object76484071"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="913.754 295.115 204.498"
+		Rot="0.000 0.983 0.000 0.182" />
+
+	<Object
+		Name="Object76484072"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="941.496 307.888 160.543"
+		Rot="0.000 0.924 0.000 0.383" />
+
+	<Object
+		Name="Object76484073"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="943.283 314.291 148.309"
+		Rot="0.000 0.959 0.000 0.284" />
+
+	<Object
+		Name="Object76484074"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="913.741 311.756 148.269"
+		Rot="0.000 0.174 0.000 -0.985" />
+
+	<Object
+		Name="Object76484075"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="903.469 297.789 175.716"
+		Rot="0.000 0.688 0.000 0.725" />
+
+	<Object
+		Name="Object76484076"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="908.020 305.922 157.138"
+		Rot="0.000 0.985 0.000 0.174" />
+
+	<Object
+		Name="Object76484077"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="880.466 301.136 161.084"
+		Rot="0.000 0.566 0.000 -0.824" />
+
+	<Object
+		Name="Object76484078"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="962.820 304.348 239.010"
+		Rot="0.000 1.000 0.000 0.000" />
+
+	<Object
+		Name="Object76484079"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="975.757 304.219 211.421"
+		Rot="0.000 0.910 0.000 -0.415" />
+
+	<Object
+		Name="Object76484080"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="974.103 304.441 218.886"
+		Rot="0.000 0.980 0.000 -0.199" />
+
+	<Object
+		Name="Object76484081"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="984.025 314.482 145.658"
+		Rot="0.000 0.996 0.000 -0.087" />
+
+	<Object
+		Name="Object76484082"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="1004.001 306.864 159.559"
+		Rot="0.000 0.824 0.000 0.566" />
+
+	<Object
+		Name="Object76484083"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="989.690 309.425 156.605"
+		Rot="0.000 0.743 0.000 0.669" />
+
+	<Object
+		Name="Object76484084"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="996.359 310.240 151.787"
+		Rot="0.000 0.961 0.000 -0.276" />
+
+	<Object
+		Name="Object76484085"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="862.024 304.239 155.053"
+		Rot="0.000 0.903 0.000 0.431" />
+
+	<Object
+		Name="Object76484086"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="860.267 296.952 168.244"
+		Rot="0.000 0.783 0.000 -0.623" />
+
+	<Object
+		Name="Object76484087"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="875.090 308.608 148.426"
+		Rot="0.000 0.961 0.000 0.276" />
+
+	<Object
+		Name="Object76484088"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="869.924 299.344 163.565"
+		Rot="0.000 0.993 0.000 -0.122" />
+
+	<Object
+		Name="Object76484089"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="873.830 293.661 181.073"
+		Rot="0.000 0.367 0.000 -0.930" />
+
+	<Object
+		Name="Object76484090"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="859.355 291.039 191.358"
+		Rot="0.000 0.755 0.000 0.656" />
+
+	<Object
+		Name="Object76484091"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="851.890 292.720 181.676"
+		Rot="0.000 0.772 0.000 0.636" />
+
+	<Object
+		Name="Object76484092"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="869.302 289.976 205.423"
+		Rot="0.000 0.879 0.000 0.477" />
+
+	<Object
+		Name="Object76484093"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="860.629 289.150 260.648"
+		Rot="0.000 0.250 0.000 0.968" />
+
+	<Object
+		Name="Object76484094"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="849.021 288.553 256.974"
+		Rot="0.000 0.814 0.000 0.581" />
+
+	<Object
+		Name="Object76484095"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="903.940 294.486 268.259"
+		Rot="0.000 0.793 0.000 0.609" />
+
+	<Object
+		Name="Object76484096"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="885.453 291.040 244.290"
+		Rot="0.000 0.731 0.000 -0.682" />
+
+	<Object
+		Name="Object76484097"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="813.364 288.508 359.098"
+		Rot="0.000 0.814 0.000 0.581" />
+
+	<Object
+		Name="Object76484098"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="793.249 288.269 297.249"
+		Rot="0.000 0.804 0.000 0.595" />
+
+	<Object
+		Name="Object76484099"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="844.823 288.260 330.146"
+		Rot="0.000 0.663 0.000 -0.749" />
+
+	<Object
+		Name="Object76484100"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="843.449 288.284 305.701"
+		Rot="0.000 0.225 0.000 0.974" />
+
+	<Object
+		Name="Object76484101"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="727.671 290.361 348.121"
+		Rot="0.000 0.530 0.000 0.848" />
+
+	<Object
+		Name="Object76484102"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="774.324 288.352 323.079"
+		Rot="0.000 0.940 0.000 -0.342" />
+
+	<Object
+		Name="Object76484103"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="791.000 294.052 415.996"
+		Rot="0.000 0.956 0.000 -0.292" />
+
+	<Object
+		Name="Object76484104"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="758.792 288.750 383.088"
+		Rot="0.000 0.829 0.000 -0.559" />
+
+	<Object
+		Name="Object76484105"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="771.795 295.315 432.980"
+		Rot="0.000 0.026 0.000 1.000" />
+
+	<Object
+		Name="Object76484106"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="875.991 296.516 510.111"
+		Rot="0.000 0.982 0.000 0.191" />
+
+	<Object
+		Name="Object76484107"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="865.431 294.643 547.300"
+		Rot="0.000 0.342 0.000 0.940" />
+
+	<Object
+		Name="Object76484108"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="826.812 301.897 507.660"
+		Rot="0.000 0.970 0.000 -0.242" />
+
+	<Object
+		Name="Object76484110"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="1047.112 297.642 185.377"
+		Rot="0.000 0.866 0.000 0.500" />
+
+	<Object
+		Name="Object76484111"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="1052.464 297.070 198.025"
+		Rot="0.000 0.701 0.000 0.713" />
+
+	<Object
+		Name="Object76484112"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="1082.386 294.575 240.193"
+		Rot="0.000 0.078 0.000 -0.997" />
+
+	<Object
+		Name="Object76484113"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="1077.486 298.096 262.311"
+		Rot="0.000 1.000 0.000 0.000" />
+
+	<Object
+		Name="Object76484114"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="1353.320 287.517 450.100"
+		Rot="0.000 0.208 0.000 0.978" />
+
+	<Object
+		Name="Object76484115"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="1332.897 289.805 462.022"
+		Rot="0.000 0.174 0.000 -0.985" />
+
+	<Object
+		Name="Object76484116"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="1346.581 285.479 433.792"
+		Rot="0.000 0.636 0.000 -0.772" />
+
+	<Object
+		Name="Object76484117"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="1412.312 286.293 464.520"
+		Rot="0.000 0.814 0.000 0.581" />
+
+	<Object
+		Name="Object76484118"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="1405.938 288.795 490.639"
+		Rot="0.000 0.961 0.000 0.276" />
+
+	<Object
+		Name="Object76484119"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="1470.956 296.739 521.843"
+		Rot="0.000 0.824 0.000 -0.566" />
+
+	<Object
+		Name="Object76484120"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="1261.295 294.865 418.695"
+		Rot="0.000 0.250 0.000 0.968" />
+
+	<Object
+		Name="Object76484121"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="1249.481 289.109 400.170"
+		Rot="0.000 0.783 0.000 0.623" />
+
+	<Object
+		Name="Object76484122"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="1515.522 289.315 496.137"
+		Rot="0.000 0.870 0.000 -0.492" />
+
+	<Object
+		Name="Object76484123"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="1515.348 292.744 507.366"
+		Rot="0.000 0.961 0.000 0.276" />
+
+	<Object
+		Name="Object76484124"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="1499.019 293.382 514.276"
+		Rot="0.000 0.875 0.000 0.485" />
+
+	<Object
+		Name="Object76484125"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="1428.194 294.249 516.752"
+		Rot="0.000 0.713 0.000 -0.701" />
+
+	<Object
+		Name="Object76484126"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="1383.026 289.913 491.034"
+		Rot="0.000 0.924 0.000 0.383" />
+
+	<Object
+		Name="Object76484127"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="1305.731 288.999 443.672"
+		Rot="0.000 0.970 0.000 0.242" />
+
+	<Object
+		Name="Object76484128"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="1312.423 288.682 446.860"
+		Rot="0.000 0.087 0.000 -0.996" />
+
+	<Object
+		Name="Object76484129"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="1218.292 290.167 390.130"
+		Rot="0.000 0.191 0.000 0.982" />
+
+	<Object
+		Name="Object76484130"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="1090.985 292.324 146.009"
+		Rot="0.000 0.156 0.000 0.988" />
+
+	<Object
+		Name="Object76484131"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="1145.294 287.945 145.461"
+		Rot="0.000 0.755 0.000 -0.656" />
+
+	<Object
+		Name="Object76484132"
+		Belong="-1"
+		Prototype="Breakable_Dub2"
+		Pos="1106.984 295.306 132.427"
+		Rot="0.000 0.148 0.000 0.989" />
+
+	<Object
+		Name="Object76484133"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="1172.724 291.820 135.461"
+		Rot="0.000 0.760 0.000 -0.649" />
+
+	<Object
+		Name="Object76484134"
+		Belong="-1"
+		Prototype="Breakable_Dub1"
+		Pos="1209.744 294.810 127.736"
+		Rot="0.000 0.233 0.000 0.972" />
+
+	<Object
+		Name="Object76484135"
+		Belong="-1"
+		Prototype="Breakable_Dub3"
+		Pos="1101.143 287.642 184.896"
+		Rot="0.000 0.843 0.000 0.537" />
 </DynamicScene>

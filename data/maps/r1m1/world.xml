@@ -2,7 +2,7 @@
 <World
 	name="Object299"
 	class="SgNode"
-	LastId="76483932">
+	LastId="76484136">
 	<Node
 		name="Object3"
 		class="SgAnimatedModelNode"
@@ -17535,5 +17535,32 @@
 		orgRel="1"
 		rot="0.0000 -0.1413 0.0000 0.9900"
 		id="big_crag_7"
+		ndmAction="0" />
+
+	<Node
+		name="Object76483992"
+		class="SgAnimatedModelNode"
+		org="976.760 -24.661 332.294"
+		orgRel="1"
+		rot="-0.0608 0.8380 0.0955 0.5338"
+		id="big_crag_7"
+		ndmAction="0" />
+
+	<Node
+		name="Object76483993"
+		class="SgAnimatedModelNode"
+		org="932.333 -0.297 370.195"
+		orgRel="1"
+		rot="0.0560 -0.2649 0.0426 0.9617"
+		id="big_crag_12"
+		ndmAction="0" />
+
+	<Node
+		name="Object76483994"
+		class="SgAnimatedModelNode"
+		org="899.264 -0.289 521.089"
+		orgRel="1"
+		rot="0.0000 -0.2356 0.0000 0.9719"
+		id="big_stone1"
 		ndmAction="0" />
 </World>
