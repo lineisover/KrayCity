@@ -41317,76 +41317,11 @@
 		Prototype="bar" />
 
 	<Object
-		Name="dalina_man2"
-		Belong="1001"
-		Prototype="Human"
-		Pos="3736.131 346.928 1695.583"
-		PathsNames="dalina_man2" />
-
-	<Object
-		Name="dalina_man1"
-		Belong="1001"
-		Prototype="Human"
-		Pos="3651.562 347.265 1666.618"
-		PathsNames="dalina_man1" />
-
-	<Object
-		Name="dalina_man9"
-		Belong="1001"
-		Prototype="Human"
-		Pos="3898.085 347.930 1608.835"
-		Rot="0.000 -0.774 0.000 0.633"
-		PathsNames="dalina_man9" />
-
-	<Object
-		Name="dalina_man5"
-		Belong="1001"
-		Prototype="Human"
-		Pos="3780.861 347.098 1595.957"
-		PathsNames="dalina_man5" />
-
-	<Object
-		Name="dalina_man7"
-		Belong="1001"
-		Prototype="Human2"
-		Pos="3778.612 346.878 1721.077"
-		Rot="0.000 0.920 0.000 0.391"
-		PathsNames="dalina_man7" />
-
-	<Object
-		Name="dalina_man10"
-		Belong="1001"
-		Prototype="Human2"
-		Pos="3878.050 347.727 1737.060"
-		PathsNames="dalina_man10" />
-
-	<Object
 		Name="dalina_man4"
 		Belong="1001"
 		Prototype="Human2"
 		Pos="3687.835 346.764 1577.015"
 		PathsNames="dalina_man4" />
-
-	<Object
-		Name="dalina_man3"
-		Belong="1001"
-		Prototype="Human3"
-		Pos="3733.589 346.978 1620.165"
-		PathsNames="dalina_man3" />
-
-	<Object
-		Name="dalina_man6"
-		Belong="1001"
-		Prototype="Human3"
-		Pos="3777.360 346.743 1618.679"
-		PathsNames="dalina_man6" />
-
-	<Object
-		Name="dalina_man8"
-		Belong="1001"
-		Prototype="Human3"
-		Pos="3838.257 346.454 1663.834"
-		PathsNames="dalina_man8" />
 
 	<Object
 		Name="Ruins_man1"
