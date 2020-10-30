@@ -13174,14 +13174,14 @@
 		Name="dub31631"
 		Belong="-1"
 		Prototype="Breakable_Dub3"
-		Pos="946.909 287.581 719.198"
+		Pos="946.909 294.052 719.198"
 		Rot="0.000 -0.959 0.000 0.284" />
 
 	<Object
 		Name="listvenoe11632"
 		Belong="-1"
 		Prototype="Breakable_Listvenoe1"
-		Pos="957.384 287.581 705.780"
+		Pos="957.384 293.009 705.780"
 		Rot="0.000 0.334 0.000 0.943" />
 
 	<Object
@@ -13195,7 +13195,7 @@
 		Name="listvenoe21634"
 		Belong="-1"
 		Prototype="Breakable_Listvenoe2"
-		Pos="994.591 301.164 701.524"
+		Pos="994.591 301.015 701.524"
 		Rot="0.000 0.415 0.000 0.910" />
 
 	<Object
@@ -13209,35 +13209,35 @@
 		Name="listvenoe11636"
 		Belong="-1"
 		Prototype="Breakable_Listvenoe1"
-		Pos="964.598 287.581 721.261"
+		Pos="964.598 298.271 721.261"
 		Rot="0.000 0.766 0.000 0.643" />
 
 	<Object
 		Name="listvenoe11637"
 		Belong="-1"
 		Prototype="Breakable_Listvenoe1"
-		Pos="959.386 304.592 739.705"
+		Pos="959.386 302.023 739.705"
 		Rot="0.000 0.695 0.000 0.719" />
 
 	<Object
 		Name="listvenoe21638"
 		Belong="-1"
 		Prototype="Breakable_Listvenoe2"
-		Pos="975.545 306.595 737.707"
+		Pos="975.545 304.811 737.707"
 		Rot="0.000 0.061 0.000 0.998" />
 
 	<Object
 		Name="listvenoe21639"
 		Belong="-1"
 		Prototype="Breakable_Listvenoe2"
-		Pos="945.482 304.349 747.851"
+		Pos="945.482 301.913 747.851"
 		Rot="0.000 -0.537 0.000 0.843" />
 
 	<Object
 		Name="listvenoe31640"
 		Belong="-1"
 		Prototype="Breakable_Listvenoe3"
-		Pos="946.149 287.581 723.421"
+		Pos="946.149 295.076 723.421"
 		Rot="0.000 -0.242 0.000 0.970" />
 
 	<Object
@@ -13272,7 +13272,7 @@
 		Name="listvenoe11645"
 		Belong="-1"
 		Prototype="Breakable_Listvenoe1"
-		Pos="939.156 287.581 658.778"
+		Pos="939.156 287.645 658.778"
 		Rot="0.000 0.725 0.000 0.688" />
 
 	<Object
@@ -13286,7 +13286,7 @@
 		Name="listvenoe21647"
 		Belong="-1"
 		Prototype="Breakable_Listvenoe2"
-		Pos="939.472 287.581 685.985"
+		Pos="939.472 287.798 685.985"
 		Rot="0.000 0.945 0.000 0.326" />
 
 	<Object
@@ -38296,7 +38296,7 @@
 		Prototype="r1m1_Ruin"
 		Pos="1378.263 292.706 272.831"
 		Rot="0.000 -0.734 0.000 0.679"
-		PointOfViewInInterface="5.000 20.000 5.000"
+		PointOfViewInInterface="50.000 50.000 50.000"
 		CaravansDest="">
 		<Object
 			Name="Ruin_defend"
@@ -38446,7 +38446,7 @@
 		Prototype="r1m1_Kolhoz"
 		Pos="3834.090 346.807 1669.078"
 		Rot="0.015 -0.701 0.016 0.713"
-		PointOfViewInInterface="5.000 20.000 5.000"
+		PointOfViewInInterface="50.000 50.000 50.000"
 		CaravansDest="">
 		<Object
 			Name="Kolhoz_defend"
