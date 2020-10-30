@@ -1182,12 +1182,24 @@
 				y="1397.664" />
 
 			<Point
-				x="214.549"
-				y="394.765" />
+				x="199.723"
+				y="250.491" />
 
 			<Point
-				x="1812.123"
-				y="735.236" />
+				x="602.284"
+				y="96.525" />
+
+			<Point
+				x="1475.556"
+				y="77.569" />
+
+			<Point
+				x="1555.963"
+				y="594.386" />
+
+			<Point
+				x="1834.805"
+				y="646.734" />
 
 			<Point
 				x="1827.446"
@@ -1402,6 +1414,30 @@
 			<Point
 				x="1792.698"
 				y="964.560" />
+
+			<Point
+				x="826.357"
+				y="414.851" />
+
+			<Point
+				x="884.769"
+				y="469.164" />
+
+			<Point
+				x="951.090"
+				y="463.578" />
+
+			<Point
+				x="880.181"
+				y="290.143" />
+
+			<Point
+				x="1090.420"
+				y="353.911" />
+
+			<Point
+				x="1017.905"
+				y="207.956" />
 		</DropOut>
 	</Object>
 
@@ -42687,10 +42723,6 @@
 		Rot="0.000 0.906 0.000 0.423" />
 
 	<Object
-		Belong="1100"
-		Prototype="someRecollection" />
-
-	<Object
 		Name="Object76483995"
 		Belong="-1"
 		Prototype="Breakable_Dub1"
@@ -42765,7 +42797,7 @@
 		Belong="-1"
 		Prototype="Breakable_Dub3"
 		Pos="990.640 300.782 392.743"
-		Rot="0.000 0.903 0.000 0.431" />
+		Rot="0.000 0.902 0.000 0.431" />
 
 	<Object
 		Name="Object76484008"
@@ -42897,7 +42929,7 @@
 		Name="Object76484031"
 		Belong="-1"
 		Prototype="Breakable_Dub1"
-		Pos="1022.664 308.615 472.609"
+		Pos="1022.664 308.616 472.609"
 		Rot="0.000 0.165 0.000 0.986" />
 
 	<Object
@@ -42911,7 +42943,7 @@
 		Name="Object76484033"
 		Belong="-1"
 		Prototype="Breakable_Dub3"
-		Pos="1008.571 314.766 495.424"
+		Pos="1008.571 314.765 495.424"
 		Rot="0.000 0.602 0.000 -0.799" />
 
 	<Object
@@ -42932,7 +42964,7 @@
 		Name="Object76484037"
 		Belong="-1"
 		Prototype="Breakable_Dub3"
-		Pos="1065.660 306.980 440.206"
+		Pos="1065.660 306.979 440.206"
 		Rot="0.000 0.927 0.000 -0.375" />
 
 	<Object
@@ -43184,7 +43216,7 @@
 		Name="Object76484075"
 		Belong="-1"
 		Prototype="Breakable_Dub1"
-		Pos="903.469 297.789 175.716"
+		Pos="903.469 297.790 175.716"
 		Rot="0.000 0.688 0.000 0.725" />
 
 	<Object
@@ -43247,7 +43279,7 @@
 		Name="Object76484084"
 		Belong="-1"
 		Prototype="Breakable_Dub3"
-		Pos="996.359 310.240 151.787"
+		Pos="996.359 310.241 151.787"
 		Rot="0.000 0.961 0.000 -0.276" />
 
 	<Object
@@ -43255,7 +43287,7 @@
 		Belong="-1"
 		Prototype="Breakable_Dub1"
 		Pos="862.024 304.239 155.053"
-		Rot="0.000 0.903 0.000 0.431" />
+		Rot="0.000 0.902 0.000 0.431" />
 
 	<Object
 		Name="Object76484086"
@@ -43275,7 +43307,7 @@
 		Name="Object76484088"
 		Belong="-1"
 		Prototype="Breakable_Dub3"
-		Pos="869.924 299.344 163.565"
+		Pos="869.924 299.345 163.565"
 		Rot="0.000 0.993 0.000 -0.122" />
 
 	<Object
@@ -43380,7 +43412,7 @@
 		Name="Object76484103"
 		Belong="-1"
 		Prototype="Breakable_Dub1"
-		Pos="791.000 294.052 415.996"
+		Pos="791.000 294.053 415.996"
 		Rot="0.000 0.956 0.000 -0.292" />
 
 	<Object
@@ -43485,7 +43517,7 @@
 		Name="Object76484119"
 		Belong="-1"
 		Prototype="Breakable_Dub1"
-		Pos="1470.956 296.739 521.843"
+		Pos="1470.956 296.740 521.843"
 		Rot="0.000 0.824 0.000 -0.566" />
 
 	<Object
@@ -43555,7 +43587,7 @@
 		Name="Object76484129"
 		Belong="-1"
 		Prototype="Breakable_Dub2"
-		Pos="1218.292 290.167 390.130"
+		Pos="1218.292 290.168 390.130"
 		Rot="0.000 0.191 0.000 0.982" />
 
 	<Object
@@ -43599,4 +43631,8 @@
 		Prototype="Breakable_Dub3"
 		Pos="1101.143 287.642 184.896"
 		Rot="0.000 0.843 0.000 0.537" />
+
+	<Object
+		Belong="1100"
+		Prototype="someRecollection" />
 </DynamicScene>
